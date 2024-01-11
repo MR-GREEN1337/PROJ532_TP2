@@ -10,7 +10,11 @@ Fonctionnalités Minimales
 Création de Comptes : Implémentation de la fonctionnalité de création de comptes pour conserver l'historique des scores individuels.
 Administration de Quizz : Possibilité pour un utilisateur administrateur de créer des quizz directement ou à partir d'un fichier texte.
 Affichage des Scores : L'application doit afficher le score final et les bonnes réponses aux questions pour chaque utilisateur autorisé.
+
+
 Fonctionnalités Additionnelles
+
+
 Le projet encourage l'ajout de fonctionnalités supplémentaires pour enrichir l'expérience utilisateur, telles que :
 
 Minuterie : Ajout d'une fonctionnalité de minuterie pour limiter le temps de réponse à un quizz.
