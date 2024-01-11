@@ -7,78 +7,10 @@ DATABASE_URL = "sqlite:///./test.db"
 database = databases.Database(DATABASE_URL)
 metadata = MetaData()
 
-users = Table(
-    "users",
-    metadata,
-    Column("user_id", Integer, primary_key=True),
-    Column("username", String(50), unique=True, index=True),
-    Column("user_password", String),
-    Column("user_mail", String),
-    Column("user_type", String),
-)
-
-take = Table(
-    "take",
-    metadata,
-    Column("user_id", Integer, primary_key=True),
-    Column("quiz_id", Integer, primary_key=True),
-    Column("date_passage", Datetime),
-    Column("score", Integer),
-    Column("nbr_attempts", Integer)
-)
-
-status = Table(
-    Column("status_id", Integer, primary_key=True),
-    Column("label", String),
-    Column("description", String)
-)
-
-Visibility = Table(
-    Column("visibility_id", Integer, primary_key=True),
-    Column("label", String),
-    Column("description", String)
-)
-
-Category = Table(
-    Column("category_id", Integer, primary_key=True),
-    Column("title", String),
-    Column("description", String)
-)
-
-question = Table(
-    Column("question_id", Integer, primary_key=True),
-    Column("question_text", String),
-)
-
-answer = Table(
-    Column("answer_id", Integer, primary_key=True),
-    Column("answer_text", String),
-    Column("quest_id", Integer)
-)
-
-consists = Table(
-    Column("quest_id", Integer, primary_key=True),
-    Column("quiz_id", Integer, primary_key=True),
-)
-
-Quizz = Table(
-    Column("quiz_id", Integer, primary_key=True),
-    Column("title", String),
-    Column("description", String),
-    Column("duration_min", Integer),
-    Column("maxNbrAttempts", Integer),
-    Column("date_creation", Datetime),
-    Column("dateLastModif", Datetime),
-    Column("status_id", Integer),
-    Column("category_id", Integer),
-    Column("visibility_id", Integer),
-    Column("admin_id", Integer),
-)
 
 async def create_user(username: str, password: str):
     query = users.insert().values(username=username, password=password)
     return await database.execute(query)
-
 
 async def get_user(username: str):
     query = users.select().where(users.c.username == username)
@@ -92,7 +24,7 @@ async def create_quiz(title: str, description: str, duration_min: int, max_attem
         duration_min=duration_min,
         maxNbrAttempts=max_attempts,
         date_creation=datetime.now(),
-        dateLastModif=int(datetime.now().timestamp()),  # Assuming you want a timestamp
+        dateLastModif=int(datetime.now().timestamp()),
         status_id=status_id,
         category_id=category_id,
         visibility_id=visibility_id,

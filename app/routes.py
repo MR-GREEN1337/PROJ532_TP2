@@ -1,4 +1,4 @@
-from fastapi import APIRouter, Depends, HTTPException
+from fastapi import UploadFile, File, Form, APIRouter, Depends, HTTPException
 from fastapi.templating import Jinja2Templates
 from starlette.requests import Request
 from app.database import get_current_user
