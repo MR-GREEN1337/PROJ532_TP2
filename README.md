@@ -3,9 +3,9 @@
 ## Look at the database architecture
 ![#Conceptual design](assets/data_model.png)
 
-# MonQuiz Project - README 🚀
+# Fikra Project - README 🚀
 
-Welcome to the **MonQuiz** project, a Python application for creating and managing quizzes. This project showcases your skills in project management, teamwork, and Python development. The project will be carried out in groups of 4 students.
+Welcome to the **FikraApp** project, a Python application for creating and managing quizzes. This project showcases your skills in project management, teamwork, and Python and Javascript development. The project will be carried out in groups of 5 students.
 
 ## Project Objective 🎯
 
@@ -28,18 +28,18 @@ The project encourages the addition of extra features to enhance the user experi
 
 The specifications are deliberately concise to allow you to take ownership of the project. It's up to your team to define a solid initial architecture. Use the SCRUM method to break down features into manageable tasks, each taking no more than 2 days.
 
-## Example Application: MonQuiz 📚
+## Example Application: FikraApp 📚
 
-You can take inspiration from the example application "MonQuiz" to guide the development of your project.
+You can take inspiration from the example application "FikraApp" to guide the development of your project.
 
 ## Installation 💻
 
 To install and run the project locally, follow these simple steps:
 
-1. Clone the repository: `git clone https://github.com/your-user/monquiz.git`
-2. Navigate to the project directory: `cd monquiz`
+1. Clone the repository: `git clone https://github.com/MR-GREEN1337/PROJ532_TP2.git`
+2. Navigate to the project directory: `cd app`
 3. Install dependencies: `pip install -r requirements.txt`
-4. Run the application: `python monquiz.py`
+4. Run the application: `python main.py`
 
 ## Contribution 🤝
 
