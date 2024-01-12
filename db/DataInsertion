@@ -1,0 +1,250 @@
+INSERT INTO Answer (AnswerText, isCorrectAnswer, questID) VALUES
+    ('Mercure', 0, 1),
+    ('Mars', 0, 1),
+    ('Jupiter', 1, 1),
+    ('Vénus', 0, 1),
+
+    ('William Wordsworth', 0, 2),
+    ('William Faulkner', 0, 2),
+    ('William Shakespeare', 1, 2),
+    ('William Blake', 0, 2),
+
+    ('Le Nil', 0, 3),
+    ('L''Amazone', 1, 3),
+    ('Le Yangtsé', 0, 3),
+    ('Le Mississippi', 0, 3),
+
+    ('1776', 0, 4),
+    ('1789', 1, 4),
+    ('1812', 0, 4),
+    ('1848', 0, 4),
+
+    ('Néon', 0, 5),
+    ('Sodium', 1, 5),
+    ('Nickel', 0, 5),
+    ('Soufre', 0, 5),
+
+    ('Louis Pasteur', 0, 6),
+    ('Alexander Fleming', 1, 6),
+    ('Marie Curie', 0, 6),
+    ('Albert Einstein', 0, 6),
+
+    ('L''océan Atlantique', 0, 7),
+    ('L''océan Indien', 0, 7),
+    ('L''océan Pacifique', 1, 7),
+    ('L''océan Arctique', 0, 7),
+
+    ('Pablo Picasso', 0, 8),
+    ('Vincent van Gogh', 0, 8),
+    ('Leonardo da Vinci', 1, 8),
+    ('Claude Monet', 0, 8),
+
+    ('Inde', 0, 9),
+    ('États-Unis', 0, 9),
+    ('Brésil', 0, 9),
+    ('Chine', 1, 9),
+
+    ('Sydney', 0, 10),
+    ('Melbourne', 0, 10),
+    ('Canberra', 1, 10),
+    ('Brisbane', 0, 10),
+
+    ('Mont Kilimandjaro', 0, 11),
+    ('Mont Everest', 1, 11),
+    ('Mont McKinley', 0, 11),
+    ('Mont Blanc', 0, 11),
+
+    ('Aldous Huxley', 0, 12),
+    ('George Orwell', 1, 12),
+    ('J.K. Rowling', 0, 12),
+    ('Ray Bradbury', 0, 12),
+
+    ('Le Sahara', 0, 13),
+    ('Le désert de Gobi', 0, 13),
+    ('L''Antarctique', 0, 13),
+    ('Le désert de l''Arctique', 1, 13),
+
+    ('Yuan', 0, 14),
+    ('Won', 0, 14),
+    ('Yen', 1, 14),
+    ('Baht', 0, 14),
+
+    ('Éléphant', 0, 15),
+    ('Rhinocéros', 0, 15),
+    ('Girafe', 0, 15),
+    ('Baleine bleue', 1, 15),
+
+    ('Greta Thunberg', 0, 16),
+    ('Donald Trump', 0, 16),
+    ('World Health Organization', 1, 16),
+    ('Vladimir Poutine', 0, 16),
+
+    ('365 jours', 0, 17),
+    ('24 heures', 0, 17),
+    ('29,5 jours', 0, 17),
+    ('365,25 jours', 1, 17),
+
+    ('Wolfgang Amadeus Mozart', 0, 18),
+    ('Ludwig van Beethoven', 1, 18),
+    ('Johann Sebastian Bach', 0, 18),
+    ('Franz Schubert', 0, 18),
+
+    ('Groenland', 1, 19),
+    ('Madagascar', 0, 19),
+    ('Bornéo', 0, 19),
+    ('Nouvelle-Guinée', 0, 19),
+
+    ('1905', 0, 20),
+    ('1914', 1, 20),
+    ('1923', 0, 20),
+    ('1939', 0, 20),
+
+    ('Lac Tanganyika', 0, 21),
+    ('Lac Malawi', 0, 21),
+    ('Lac Victoria', 1, 21),
+    ('Lac Nyasa', 0, 21),
+
+    ('Antoine de Saint-Exupéry', 1, 22),
+    ('Victor Hugo', 0, 22),
+    ('Marcel Proust', 0, 22),
+    ('Gustave Flaubert', 0, 22),
+
+    ('Amelia Earhart', 1, 23),
+    ('Bessie Coleman', 0, 23),
+    ('Harriet Quimby', 0, 23),
+    ('Jacqueline Cochran', 0, 23),
+
+    ('Vénus', 1, 24),
+    ('Mars', 0, 24),
+    ('Mercure', 0, 24),
+    ('Jupiter', 0, 24),
+
+    ('James Watson', 0, 25),
+    ('Rosalind Franklin', 0, 25),
+    ('Francis Crick', 1, 25),
+    ('Linus Pauling', 0, 25),
+
+    ('Barrière de corail des îles Fidji', 0, 26),
+    ('Barrière de corail des Bahamas', 0, 26),
+    ('Grande Barrière de corail', 1, 26),
+    ('Barrière de corail de Belize', 0, 26),
+
+    ('Californie', 0, 27),
+    ('Texas', 1, 27),
+    ('Alaska', 0, 27),
+    ('Floride', 0, 27),
+
+    ('Fiodor Dostoïevski', 1, 28),
+    ('Leo Tolstoï', 0, 28),
+    ('Anton Tchekhov', 0, 28),
+    ('Vladimir Nabokov', 0, 28),
+
+    ('Mont Kenya', 0, 29),
+    ('Kilimandjaro', 1, 29),
+    ('Ruinsori', 0, 29),
+    ('Simien', 0, 29),
+
+    ('1959', 0, 30),
+    ('1969', 1, 30),
+    ('1979', 0, 30),
+    ('1989', 0, 30),
+
+    ('Orque', 0, 31),
+    ('Baleine à bosse', 0, 31),
+    ('Baleine bleue', 1, 31),
+    ('Dauphin', 0, 31),
+
+    ('Isaac Newton', 0, 32),
+    ('Albert Einstein', 1, 32),
+    ('Max Planck', 0, 32),
+    ('Niels Bohr', 0, 32),
+
+    ('La Tamise', 0, 33),
+    ('Le Danube', 0, 33),
+    ('La Volga', 1, 33),
+    ('Le Rhin', 0, 33),
+
+    ('Charlotte Brontë', 0, 34),
+    ('Jane Austen', 1, 34),
+    ('Emily Brontë', 0, 34),
+    ('Charles Dickens', 0, 34),
+
+    ('Le Cap', 0, 35),
+    ('Pretoria', 0, 35),
+    ('Johannesbourg', 0, 35),
+    ('Bloemfontein', 1, 35),
+
+    ('Grand Canyon', 1, 36),
+    ('Canyon de Chelly', 0, 36),
+    ('Fish River Canyon', 0, 36),
+    ('Copper Canyon', 0, 36),
+
+    ('Gustave Flaubert', 0, 37),
+    ('Victor Hugo', 1, 37),
+    ('Émile Zola', 0, 37),
+    ('Honoré de Balzac', 0, 37),
+
+    ('Lac Supérieur', 0, 38),
+    ('Lac Michigan', 0, 38),
+    ('Lac Huron', 0, 38),
+    ('Lac Supérieur', 1, 38),
+
+    ('Vincent van Gogh', 1, 39),
+    ('Claude Monet', 0, 39),
+    ('Pablo Picasso', 0, 39),
+    ('Salvador Dalí', 0, 39),
+
+    ('Stockholm', 0, 40),
+    ('Copenhague', 0, 40),
+    ('Helsinki', 0, 40),
+    ('Oslo', 1, 40),
+
+    ('Uranus', 0, 41),
+    ('Neptune', 1, 41),
+    ('Pluton', 0, 41),
+    ('Saturne', 0, 41),
+
+    ('Oscar Wilde', 1, 42),
+    ('Virginia Woolf', 0, 42),
+    ('George Orwell', 0, 42),
+    ('Charles Dickens', 0, 42),
+
+    ('L''océan Atlantique', 0, 43),
+    ('L''océan Indien', 0, 43),
+    ('L''océan Pacifique', 1, 43),
+    ('L''océan Arctique', 0, 43),
+
+    ('Copenhague', 0, 44),
+    ('Helsinki', 0, 44),
+    ('Oslo', 0, 44),
+    ('Stockholm', 1, 44),
+
+    ('Marie Curie', 1, 45),
+    ('Albert Einstein', 0, 45),
+    ('Ernest Rutherford', 0, 45),
+    ('Niels Bohr', 0, 45),
+
+    ('Éléphant d''Afrique', 0, 46),
+    ('Girafe', 0, 46),
+    ('Éléphant d''Asie', 0, 46),
+    ('Colosse de Java', 1, 46),
+
+    ('Homère', 1, 47),
+    ('Sappho', 0, 47),
+    ('Euripide', 0, 47),
+    ('Aristophane', 0, 47),
+
+    ('Lac Titicaca', 0, 48),
+    ('Lac Poopó', 0, 48),
+    ('Lac Maracaibo', 0, 48),
+    ('Lac de Patagonie', 1, 48),
+
+    ('Alpha', 1, 49),
+    ('Bêta', 0, 49),
+    ('Gamma', 0, 49),
+    ('Delta', 0, 49),
+
+    ('Buzz Aldrin', 0, 50),
+    ('Neil Armstrong', 1, 50),
+    ('Michael Collins', 0, 50),
+    ('Yuri Gagarin', 0, 50);
