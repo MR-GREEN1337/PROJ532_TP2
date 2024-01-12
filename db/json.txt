@@ -1,0 +1,618 @@
+{
+  "questions": [
+    {
+      "question": "Quelle est la plus grande planète du système solaire ?",
+      "category": "culture_generale",
+      "answers": [
+        {"option": "Mercure", "is_correct": false},
+        {"option": "Mars", "is_correct": false},
+        {"option": "Jupiter", "is_correct": true},
+        {"option": "Vénus", "is_correct": false}
+      ]
+    },
+    {
+      "question": "Qui a écrit la pièce de théâtre \"Hamlet\" ?",
+      "category": "culture_generale",
+      "answers": [
+        {"option": "William Wordsworth", "is_correct": false},
+        {"option": "William Faulkner", "is_correct": false},
+        {"option": "William Shakespeare", "is_correct": true},
+        {"option": "William Blake", "is_correct": false}
+      ]
+    },
+    {
+      "question": "Quel est le plus long fleuve du monde ?",
+      "category": "culture_generale",
+      "answers": [
+        {"option": "Le Nil", "is_correct": false},
+        {"option": "L'Amazone", "is_correct": true},
+        {"option": "Le Yangtsé", "is_correct": false},
+        {"option": "Le Mississippi", "is_correct": false}
+      ]
+    },
+    {
+      "question": "En quelle année a eu lieu la Révolution française ?",
+      "category": "culture_generale",
+      "answers": [
+        {"option": "1776", "is_correct": false},
+        {"option": "1789", "is_correct": true},
+        {"option": "1812", "is_correct": false},
+        {"option": "1848", "is_correct": false}
+      ]
+    },
+    {
+      "question": "Quel élément chimique a pour symbole \"Na\" ?",
+      "category": "culture_generale",
+      "answers": [
+        {"option": "Néon", "is_correct": false},
+        {"option": "Sodium", "is_correct": true},
+        {"option": "Nickel", "is_correct": false},
+        {"option": "Soufre", "is_correct": false}
+      ]
+    },
+    {
+      "question": "Qui a découvert la pénicilline ?",
+      "category": "culture_generale",
+      "answers": [
+        {"option": "Louis Pasteur", "is_correct": false},
+        {"option": "Alexander Fleming", "is_correct": true},
+        {"option": "Marie Curie", "is_correct": false},
+        {"option": "Albert Einstein", "is_correct": false}
+      ]
+    },
+    {
+      "question": "Quel est le plus grand océan de la Terre ?",
+      "category": "culture_generale",
+      "answers": [
+        {"option": "L'océan Atlantique", "is_correct": false},
+        {"option": "L'océan Indien", "is_correct": false},
+        {"option": "L'océan Pacifique", "is_correct": true},
+        {"option": "L'océan Arctique", "is_correct": false}
+      ]
+    },
+    {
+      "question": "Qui a peint \"La Joconde\" ?",
+      "category": "culture_generale",
+      "answers": [
+        {"option": "Pablo Picasso", "is_correct": false},
+        {"option": "Vincent van Gogh", "is_correct": false},
+        {"option": "Leonardo da Vinci", "is_correct": true},
+        {"option": "Claude Monet", "is_correct": false}
+      ]
+    },
+    {
+      "question": "Quel est le deuxième pays le plus peuplé du monde ?",
+      "category": "culture_generale",
+      "answers": [
+        {"option": "Inde", "is_correct": false},
+        {"option": "États-Unis", "is_correct": false},
+        {"option": "Brésil", "is_correct": false},
+        {"option": "Chine", "is_correct": true}
+      ]
+    },
+    {
+      "question": "Quelle est la capitale de l'Australie ?",
+      "category": "culture_generale",
+      "answers": [
+        {"option": "Sydney", "is_correct": false},
+        {"option": "Melbourne", "is_correct": false},
+        {"option": "Canberra", "is_correct": true},
+        {"option": "Brisbane", "is_correct": false}
+      ]
+    },
+    {
+      "question": "Quelle est la plus haute montagne du monde ?",
+      "category": "culture_generale",
+      "answers": [
+        {"option": "Mont Kilimandjaro", "is_correct": false},
+        {"option": "Mont Everest", "is_correct": true},
+        {"option": "Mont McKinley", "is_correct": false},
+        {"option": "Mont Blanc", "is_correct": false}
+      ]
+    },
+    {
+      "question": "Qui a écrit \"1984\" ?",
+      "category": "culture_generale",
+      "answers": [
+        {"option": "Aldous Huxley", "is_correct": false},
+        {"option": "George Orwell", "is_correct": true},
+        {"option": "J.K. Rowling", "is_correct": false},
+        {"option": "Ray Bradbury", "is_correct": false}
+      ]
+    },
+    {
+      "question": "Quel est le plus grand désert du monde ?",
+      "category": "culture_generale",
+      "answers": [
+        {"option": "Le Sahara", "is_correct": false},
+        {"option": "Le désert de Gobi", "is_correct": false},
+        {"option": "L'Antarctique", "is_correct": false},
+        {"option": "Le désert de l'Arctique", "is_correct": true}
+      ]
+    },
+    {
+      "question": "Quelle est la monnaie officielle du Japon ?",
+      "category": "culture_generale",
+      "answers": [
+        {"option": "Yuan", "is_correct": false},
+        {"option": "Won", "is_correct": false},
+        {"option": "Yen", "is_correct": true},
+        {"option": "Baht", "is_correct": false}
+      ]
+    },
+    {
+      "question": "Quel est le plus grand mammifère terrestre ?",
+      "category": "culture_generale",
+      "answers": [
+        {"option": "Éléphant", "is_correct": false},
+        {"option": "Rhinocéros", "is_correct": false},
+        {"option": "Girafe", "is_correct": false},
+        {"option": "Baleine bleue", "is_correct": true}
+      ]
+    },
+    {
+      "question": "Qui a remporté le prix Nobel de la paix en 2020 ?",
+      "category": "culture_generale",
+      "answers": [
+        {"option": "Greta Thunberg", "is_correct": false},
+        {"option": "Donald Trump", "is_correct": false},
+        {"option": "World Health Organization", "is_correct": true},
+        {"option": "Vladimir Poutine", "is_correct": false}
+      ]
+    },
+    {
+      "question": "Quelle est la période de révolution de la Terre autour du Soleil ?",
+      "category": "culture_generale",
+      "answers": [
+        {"option": "365 jours", "is_correct": false},
+        {"option": "24 heures", "is_correct": false},
+        {"option": "29,5 jours", "is_correct": false},
+        {"option": "365,25 jours", "is_correct": true}
+      ]
+    },
+    {
+      "question": "Quel est le compositeur de la Symphonie n°9 en ré mineur, également appelée la Neuvième Symphonie ?",
+      "category": "culture_generale",
+      "answers": [
+        {"option": "Wolfgang Amadeus Mozart", "is_correct": false},
+        {"option": "Ludwig van Beethoven", "is_correct": true},
+        {"option": "Johann Sebastian Bach", "is_correct": false},
+        {"option": "Franz Schubert", "is_correct": false}
+      ]
+    },
+    {
+      "question": "Quelle est la plus grande île du monde ?",
+      "category": "culture_generale",
+      "answers": [
+        {"option": "Groenland", "is_correct": true},
+        {"option": "Madagascar", "is_correct": false},
+        {"option": "Bornéo", "is_correct": false},
+        {"option": "Nouvelle-Guinée", "is_correct": false}
+      ]
+    },
+    {
+      "question": "En quelle année a eu lieu la première guerre mondiale ?",
+      "category": "culture_generale",
+      "answers": [
+        {"option": "1905", "is_correct": false},
+        {"option": "1914", "is_correct": true},
+        {"option": "1923", "is_correct": false},
+        {"option": "1939", "is_correct": false}
+      ]
+    }
+  ]
+}
+
+{
+  "questions": [
+    {
+      "question": "Quel est le plus grand mammifère terrestre ?",
+      "category": "animaux",
+      "answers": [
+        {"option": "Éléphant d'Afrique", "is_correct": false},
+        {"option": "Rhinocéros", "is_correct": false},
+        {"option": "Girafe", "is_correct": false},
+        {"option": "Colosse de Java", "is_correct": true}
+      ]
+    },
+    {
+      "question": "Quel oiseau détient le record du plus grand envergure d'ailes ?",
+      "category": "animaux",
+      "answers": [
+        {"option": "Albatros royal", "is_correct": true},
+        {"option": "Aigle", "is_correct": false},
+        {"option": "Condor", "is_correct": false},
+        {"option": "Pélican", "is_correct": false}
+      ]
+    },
+    {
+      "question": "Quelle espèce de serpent est la plus venimeuse au monde ?",
+      "category": "animaux",
+      "answers": [
+        {"option": "Vipère", "is_correct": false},
+        {"option": "Cobra royal", "is_correct": false},
+        {"option": "Taïpan", "is_correct": true},
+        {"option": "Anaconda", "is_correct": false}
+      ]
+    },
+    {
+      "question": "Quel est le plus grand mammifère marin ?",
+      "category": "animaux",
+      "answers": [
+        {"option": "Orque", "is_correct": false},
+        {"option": "Baleine à bosse", "is_correct": false},
+        {"option": "Baleine bleue", "is_correct": true},
+        {"option": "Dauphin", "is_correct": false}
+      ]
+    },
+    {
+      "question": "Quel animal est capable de changer de couleur pour se camoufler ?",
+      "category": "animaux",
+      "answers": [
+        {"option": "Caméléon", "is_correct": true},
+        {"option": "Iguane", "is_correct": false},
+        {"option": "Gecko", "is_correct": false},
+        {"option": "Agame", "is_correct": false}
+      ]
+    },
+    {
+      "question": "Quelle espèce de tortue est la plus grande du monde ?",
+      "category": "animaux",
+      "answers": [
+        {"option": "Tortue de mer", "is_correct": false},
+        {"option": "Tortue alligator", "is_correct": false},
+        {"option": "Tortue géante des Galápagos", "is_correct": true},
+        {"option": "Tortue serpentine", "is_correct": false}
+      ]
+    },
+    {
+      "question": "Quel est le plus grand prédateur terrestre ?",
+      "category": "animaux",
+      "answers": [
+        {"option": "Tigre", "is_correct": false},
+        {"option": "Lion", "is_correct": false},
+        {"option": "Ours polaire", "is_correct": true},
+        {"option": "Léopard", "is_correct": false}
+      ]
+    },
+    {
+      "question": "Quel animal est surnommé le \"tueur silencieux\" en raison de sa chasse furtive ?",
+      "category": "animaux",
+      "answers": [
+        {"option": "Lynx", "is_correct": false},
+        {"option": "Guépard", "is_correct": false},
+        {"option": "Jaguar", "is_correct": true},
+        {"option": "Puma", "is_correct": false}
+      ]
+    },
+    {
+      "question": "Quel est l'insecte le plus lourd du monde ?",
+      "category": "animaux",
+      "answers": [
+        {"option": "Scarabée rhinocéros", "is_correct": false},
+        {"option": "Lucane cerf-volant", "is_correct": false},
+        {"option": "Phasme", "is_correct": true},
+        {"option": "Mante religieuse", "is_correct": false}
+      ]
+    },
+    {
+      "question": "Quel est le plus grand reptile vivant sur terre ?",
+      "category": "animaux",
+      "answers": [
+        {"option": "Varan de Komodo", "is_correct": true},
+        {"option": "Crocodile du Nil", "is_correct": false},
+        {"option": "Anaconda", "is_correct": false},
+        {"option": "Iguane marin", "is_correct": false}
+      ]
+    },
+    {
+      "question": "Quel animal est capable de survivre sans eau en absorbant l'humidité de l'air ?",
+      "category": "animaux",
+      "answers": [
+        {"option": "Chameau", "is_correct": false},
+        {"option": "Kangourou", "is_correct": false},
+        {"option": "Criquet migrateur", "is_correct": true},
+        {"option": "Tortue terrestre", "is_correct": false}
+      ]
+    },
+    {
+      "question": "Quelle espèce de singe est la plus grande ?",
+      "category": "animaux",
+      "answers": [
+        {"option": "Gorille", "is_correct": false},
+        {"option": "Chimpanzé", "is_correct": false},
+        {"option": "Orang-outan", "is_correct": true},
+        {"option": "Babouin", "is_correct": false}
+      ]
+    },
+    {
+      "question": "Quel oiseau est capable de voler en arrière ?",
+      "category": "animaux",
+      "answers": [
+        {"option": "Hirondelle", "is_correct": false},
+        {"option": "Colibri", "is_correct": true},
+        {"option": "Martin-pêcheur", "is_correct": false},
+        {"option": "Faucon", "is_correct": false}
+      ]
+    },
+    {
+      "question": "Quel mammifère marin est également connu sous le nom de \"licorne des mers\" en raison de sa défense unique ?",
+      "category": "animaux",
+      "answers": [
+        {"option": "Narval", "is_correct": true},
+        {"option": "Morse", "is_correct": false},
+        {"option": "Baleine à bosse", "is_correct": false},
+        {"option": "Dauphin", "is_correct": false}
+      ]
+    },
+    {
+      "question": "Quel est le plus grand insecte du monde en termes de taille corporelle ?",
+      "category": "animaux",
+      "answers": [
+        {"option": "Mante orchidée", "is_correct": false},
+        {"option": "Mégasoma elephas", "is_correct": true},
+        {"option": "Titanus giganteus", "is_correct": false},
+        {"option": "Phyllium giganteum", "is_correct": false}
+      ]
+    },
+    {
+      "question": "Quelle espèce de serpent est la plus venimeuse en termes de toxicité de son venin ?",
+      "category": "animaux",
+      "answers": [
+        {"option": "Vipère", "is_correct": false},
+        {"option": "Cobra royal", "is_correct": false},
+        {"option": "Mamba noir", "is_correct": true},
+        {"option": "Serpent corail", "is_correct": false}
+      ]
+    },
+    {
+      "question": "Quel animal est connu pour son intelligence exceptionnelle, notamment l'utilisation d'outils ?",
+      "category": "animaux",
+      "answers": [
+        {"option": "Éléphant", "is_correct": false},
+        {"option": "Dauphin", "is_correct": false},
+        {"option": "Pieuvre", "is_correct": true},
+        {"option": "Singe capucin", "is_correct": false}
+      ]
+    },
+    {
+      "question": "Quelle est la plus grande espèce de baleine ?",
+      "category": "animaux",
+      "answers": [
+        {"option": "Baleine à bosse", "is_correct": false},
+        {"option": "Baleine bleue", "is_correct": true},
+        {"option": "Rorqual commun", "is_correct": false},
+        {"option": "Baleine grise", "is_correct": false}
+      ]
+    },
+    {
+      "question": "Quel est le plus grand félin sauvage ?",
+      "category": "animaux",
+      "answers": [
+        {"option": "Tigre", "is_correct": true},
+        {"option": "Lion", "is_correct": false},
+        {"option": "Léopard", "is_correct": false},
+        {"option": "Guépard", "is_correct": false}
+      ]
+    },
+    {
+      "question": "Quel oiseau est capable de dormir en volant pendant de longues périodes ?",
+      "category": "animaux",
+      "answers": [
+        {"option": "Albatros", "is_correct": false},
+        {"option": "Moineau", "is_correct": false},
+        {"option": "Martinet", "is_correct": true},
+        {"option": "Chouette", "is_correct": false}
+      ]
+    }
+  ]
+}
+
+
+{
+  "questions": [
+    {
+      "question": "Qui est l'auteur de la Symphonie fantastique ?",
+      "category": "musique",
+      "answers": [
+        {"option": "Wolfgang Amadeus Mozart", "is_correct": false},
+        {"option": "Ludwig van Beethoven", "is_correct": false},
+        {"option": "Hector Berlioz", "is_correct": true},
+        {"option": "Pyotr Ilyich Tchaikovsky", "is_correct": false}
+      ]
+    },
+    {
+      "question": "Quel compositeur autrichien a composé \"Le Requiem\" ?",
+      "category": "musique",
+      "answers": [
+        {"option": "Franz Schubert", "is_correct": false},
+        {"option": "Wolfgang Amadeus Mozart", "is_correct": true},
+        {"option": "Ludwig van Beethoven", "is_correct": false},
+        {"option": "Joseph Haydn", "is_correct": false}
+      ]
+    },
+    {
+      "question": "Quel instrument est associé à Antonio Vivaldi et son œuvre \"Les Quatre Saisons\" ?",
+      "category": "musique",
+      "answers": [
+        {"option": "Piano", "is_correct": false},
+        {"option": "Violon", "is_correct": true},
+        {"option": "Trompette", "is_correct": false},
+        {"option": "Flûte", "is_correct": false}
+      ]
+    },
+    {
+      "question": "Qui est le compositeur du célèbre ballet \"Le Lac des cygnes\" ?",
+      "category": "musique",
+      "answers": [
+        {"option": "Pyotr Ilyich Tchaikovsky", "is_correct": true},
+        {"option": "Igor Stravinsky", "is_correct": false},
+        {"option": "Sergei Prokofiev", "is_correct": false},
+        {"option": "Johann Sebastian Bach", "is_correct": false}
+      ]
+    },
+    {
+      "question": "Quelle symphonie de Beethoven est également connue sous le nom de \"Symphonie pastorale\" ?",
+      "category": "musique",
+      "answers": [
+        {"option": "Symphonie n°3 en mi bémol majeur, \"Eroica\"", "is_correct": false},
+        {"option": "Symphonie n°5 en do mineur", "is_correct": false},
+        {"option": "Symphonie n°6 en fa majeur, \"Pastorale\"", "is_correct": true},
+        {"option": "Symphonie n°9 en ré mineur, \"Choral\"", "is_correct": false}
+      ]
+    },
+    {
+      "question": "Qui a composé l'opéra \"Carmen\" ?",
+      "category": "musique",
+      "answers": [
+        {"option": "Georges Bizet", "is_correct": true},
+        {"option": "Giuseppe Verdi", "is_correct": false},
+        {"option": "Richard Wagner", "is_correct": false},
+        {"option": "Wolfgang Amadeus Mozart", "is_correct": false}
+      ]
+    },
+    {
+      "question": "Quel compositeur russe est connu pour ses ballets \"La Belle au bois dormant\" et \"Casse-Noisette\" ?",
+      "category": "musique",
+      "answers": [
+        {"option": "Sergei Prokofiev", "is_correct": false},
+        {"option": "Pyotr Ilyich Tchaikovsky", "is_correct": true},
+        {"option": "Igor Stravinsky", "is_correct": false},
+        {"option": "Dmitri Shostakovich", "is_correct": false}
+      ]
+    },
+    {
+      "question": "Quelle chanson emblématique de Queen commence par les mots \"Is this the real life, is this just fantasy?\" ?",
+      "category": "musique",
+      "answers": [
+        {"option": "\"We Are the Champions\"", "is_correct": false},
+        {"option": "\"Bohemian Rhapsody\"", "is_correct": true},
+        {"option": "\"Somebody to Love\"", "is_correct": false},
+        {"option": "\"Don't Stop Me Now\"", "is_correct": false}
+      ]
+    },
+    {
+      "question": "Quel compositeur romantique allemand est célèbre pour ses \"Lieder\" (chants) et ses symphonies, dont la Symphonie n°4 en ré mineur ?",
+      "category": "musique",
+      "answers": [
+        {"option": "Johannes Brahms", "is_correct": false},
+        {"option": "Richard Wagner", "is_correct": false},
+        {"option": "Franz Schubert", "is_correct": false},
+        {"option": "Robert Schumann", "is_correct": true}
+      ]
+    },
+    {
+      "question": "Qui a écrit la comédie musicale \"Les Misérables\" ?",
+      "category": "musique",
+      "answers": [
+        {"option": "Andrew Lloyd Webber", "is_correct": false},
+        {"option": "Stephen Sondheim", "is_correct": false},
+        {"option": "Claude-Michel Schönberg", "is_correct": false},
+        {"option": "Alain Boublil et Claude-Michel Schönberg", "is_correct": true}
+      ]
+    },
+    {
+      "question": "Quel compositeur italien a créé l'opéra \"La Traviata\" ?",
+      "category": "musique",
+      "answers": [
+        {"option": "Giacomo Puccini", "is_correct": false},
+        {"option": "Gioachino Rossini", "is_correct": false},
+        {"option": "Giuseppe Verdi", "is_correct": true},
+        {"option": "Vincenzo Bellini", "is_correct": false}
+      ]
+    },
+    {
+      "question": "Quel est le nom du groupe de rock britannique connu pour les albums \"The Dark Side of the Moon\" et \"The Wall\" ?",
+      "category": "musique",
+      "answers": [
+        {"option": "The Beatles", "is_correct": false},
+        {"option": "Led Zeppelin", "is_correct": false},
+        {"option": "Pink Floyd", "is_correct": true},
+        {"option": "The Rolling Stones", "is_correct": false}
+      ]
+    },
+    {
+      "question": "Qui est le compositeur de la musique du film \"Les Dents de la mer\" ?",
+      "category": "musique",
+      "answers": [
+        {"option": "Ennio Morricone", "is_correct": false},
+        {"option": "John Williams", "is_correct": true},
+        {"option": "Hans Zimmer", "is_correct": false},
+        {"option": "Bernard Herrmann", "is_correct": false}
+      ]
+    },
+    {
+      "question": "Quelle chanson d'Elton John a remporté l'Oscar de la meilleure chanson originale en 1995 ?",
+      "category": "musique",
+      "answers": [
+        {"option": "\"Rocket Man\"", "is_correct": false},
+        {"option": "\"I'm Still Standing\"", "is_correct": false},
+        {"option": "\"Can You Feel the Love Tonight\"", "is_correct": true},
+        {"option": "\"Candle in the Wind\"", "is_correct": false}
+      ]
+    },
+    {
+      "question": "Quel musicien et compositeur américain est souvent surnommé \"The King of Pop\" ?",
+      "category": "musique",
+      "answers": [
+        {"option": "Prince", "is_correct": false},
+        {"option": "Michael Jackson", "is_correct": true},
+        {"option": "Stevie Wonder", "is_correct": false},
+        {"option": "Elvis Presley", "is_correct": false}
+      ]
+    },
+    {
+      "question": "Qui a composé la \"Marche impériale\", également connue comme le thème de Dark Vador dans Star Wars ?",
+      "category": "musique",
+      "answers": [
+        {"option": "John Williams", "is_correct": true},
+        {"option": "Hans Zimmer", "is_correct": false},
+        {"option": "Ennio Morricone", "is_correct": false},
+        {"option": "Howard Shore", "is_correct": false}
+      ]
+    },
+    {
+      "question": "Quel est le nom du groupe de rock nord-irlandais connu pour les chansons \"With or Without You\" et \"Sunday Bloody Sunday\" ?",
+      "category": "musique",
+      "answers": [
+        {"option": "The Rolling Stones", "is_correct": false},
+        {"option": "U2", "is_correct": true},
+        {"option": "Coldplay", "is_correct": false},
+        {"option": "The Beatles", "is_correct": false}
+      ]
+    },
+    {
+      "question": "Quelle chanteuse américaine est surnommée \"Queen of Pop\" ?",
+      "category": "musique",
+      "answers": [
+        {"option": "Madonna", "is_correct": true},
+        {"option": "Whitney Houston", "is_correct": false},
+        {"option": "Mariah Carey", "is_correct": false},
+        {"option": "Beyoncé", "is_correct": false}
+      ]
+    },
+    {
+      "question": "Qui a composé l'opéra \"La Flûte enchantée\" ?",
+      "category": "musique",
+      "answers": [
+        {"option": "Wolfgang Amadeus Mozart", "is_correct": true},
+        {"option": "Ludwig van Beethoven", "is_correct": false},
+        {"option": "Franz Schubert", "is_correct": false},
+        {"option": "Johann Sebastian Bach", "is_correct": false}
+      ]
+    },
+    {
+      "question": "Quel est le nom du groupe suédois de pop qui a remporté l'Eurovision en 1974 avec la chanson \"Waterloo\" ?",
+      "category": "musique",
+      "answers": [
+        {"option": "ABBA", "is_correct": true},
+        {"option": "Ace of Base", "is_correct": false},
+        {"option": "Roxette", "is_correct": false},
+        {"option": "Europe", "is_correct": false}
+      ]
+    }
+  ]
+}
+
+
+
