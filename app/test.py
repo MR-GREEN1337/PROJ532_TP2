@@ -5,6 +5,9 @@ from sqlalchemy.types import DateTime
 from sqlalchemy.ext.declarative import DeclarativeMeta, declarative_base
 from sqlalchemy.orm import sessionmaker
 from datetime import datetime
+import fastapi
+from fastapi import Request, FastAPI, Depends, HTTPException, Form
+import uvicorn
 
 DATABASE_URL = "sqlite:///./db/sqlV2.sqlite"
 database = databases.Database(DATABASE_URL)
@@ -87,77 +90,24 @@ async def get_user(username: str):
     query = users.select().where(users.c.userFiname == username)
     return await database.fetch_one(query)
 
-async def create_quiz(title: str, description: str, duration_min: int, max_attempts: int,
-                      status_id: int, category_id: int, visibility_id: int, admin_id: int):
-    query = quiz.insert().values(
-        categoryName=title,
-        description=description,
-        duration_min=duration_min,
-        maxNbrAttempts=max_attempts,
-        dateCreation=datetime.now(),
-        dateLastModif=int(datetime.now().timestamp()),
-        statusID=status_id,
-        visibilityID=visibility_id,
-        adminID=admin_id
-    )
-    return await database.execute(query)
-
 async def get_quiz(quiz_id: int):
     query = quiz.select().where(quiz.c.quizID == quiz_id)
     return await database.fetch_one(query)
 
-async def get_quizzes_by_category(category_id: int):
-    query = quiz.select().where(quiz.c.categoryName == category_id)
-    return await database.fetch_all(query)
+app = FastAPI()
 
-async def get_quizzes_by_status(status_id: int):
-    query = quiz.select().where(quiz.c.statusID == status_id)
-    return await database.fetch_all(query)
+@app.on_event("startup")
+async def startup_event():
+    database.connect()
 
-async def get_quizzes_by_visibility(visibility_id: int):
-    query = quiz.select().where(quiz.c.visibilityID == visibility_id)
-    return await database.fetch_all(query)
+@app.on_event("shutdown")
+async def shutdown_event():
+    database.disconnect()
 
-async def get_user_quizzes(admin_id: int):
-    query = quiz.select().where(quiz.c.adminID == admin_id)
-    return await database.fetch_all(query)
+@app.get("/")
+async def get_content(request: Request):
+    response = await get_quiz(1)
+    return response
 
-async def create_question(question_text: str):
-    query = question.insert().values(questText=question_text)
-    return await database.execute(query)
-
-async def get_question(question_id: int):
-    query = question.select().where(question.c.questID == question_id)
-    return await database.fetch_one(query)
-
-async def create_answer(answer_text: str, quest_id: int, is_correct: bool):
-    query = answer.insert().values(AnswerText=answer_text, questID=quest_id, isCorrectAnswer=is_correct)
-    return await database.execute(query)
-
-async def get_answers_for_question(quest_id: int):
-    query = answer.select().where(answer.c.questID == quest_id)
-    return await database.fetch_all(query)
-
-async def record_quiz_attempt(user_id: int, quiz_id: int, date_passage: str, score: int, nbr_attempts: int):
-    query = take.insert().values(
-        user_id=user_id,
-        quiz_id=quiz_id,
-        date_passage=date_passage,
-        score=score,
-        nbr_attempts=nbr_attempts
-    )
-    return await database.execute(query)
-
-async def record_quiz_attempt(user_id: int, quiz_id: int, date_passage: str, score: int, nbr_attempts: int):
-    query = take.insert().values(
-        userID=user_id,
-        quizID=quiz_id,
-        date_passage=date_passage,
-        score=score,
-        nbrAttempts=nbr_attempts
-    )
-    return await database.execute(query)
-
-async def get_user_quiz_attempts(user_id: int):
-    query = take.select().where(take.c.userID == user_id)
-    return await database.fetch_all(query)
+if __name__ == '__main__':
+    uvicorn.run("test:app", host="127.0.0.1", port=8000, reload=True)
