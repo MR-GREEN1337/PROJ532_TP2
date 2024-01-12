@@ -256,7 +256,7 @@ VALUES
 ("Quelle est la langue officielle de la Turquie ?", 5),
 ("Combien de langues officielles le Parlement suisse utilise-t-il lors de ses délibérations ?", 5),
 ("Quelle est la langue officielle de l'Afghanistan ?", 5),
-("Combien de langues officielles la Belgique a-t-elle au niveau régional ?", 5),
+("Combien de langues officielles la Belgique a t elle au niveau régional ?", 5),
 ("Quelle est la langue officielle de l'Angola ?", 5),
 ("Combien de langues sont officielles en Bolivie ?", 5),
 ("Quelle est la langue officielle du Liban ?", 5),

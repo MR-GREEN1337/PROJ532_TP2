@@ -1,10 +1,11 @@
 from fastapi import UploadFile, File, Form, APIRouter, Depends, HTTPException
 from fastapi.templating import Jinja2Templates
+from fastapi.responses import HTMLResponse
 from starlette.requests import Request
-from app.database import get_current_user
+from database import get_user, create_user, create_quiz, get_quiz, get_quizzes_by_category, get_quizzes_by_status, get_quizzes_by_visibility, get_user_quizzes, create_question, get_question, create_answer, get_answers_for_question, record_quiz_attempt, get_user_quiz_attempts
 
 router = APIRouter()
-templates = Jinja2Templates(directory="app/templates")
+templates = Jinja2Templates(directory="templates")
 
 # Dummy quiz questions for illustration purposes
 quiz_questions = [
@@ -25,12 +26,16 @@ quiz_questions = [
     }
 ]
 
+@router.get("/signup", response_class=HTMLResponse)
+async def sign_up(request: Request, user = Depends(get_user)):
+    return templates.TemplateResponse("/app/templates/sign-up.html", {"request": request, "title": "Quiz", "questions": quiz_questions})
+
 @router.get("/quiz", response_class=HTMLResponse)
-async def get_quiz(request: Request, user: User = Depends(get_current_user)):
+async def get_quiz(request: Request, user = Depends(get_user)):
     return templates.TemplateResponse("quiz.html", {"request": request, "title": "Quiz", "questions": quiz_questions})
 
 @router.post("/submit_answer")
-async def submit_answer(question_index: int, answer: str, user: User = Depends(get_current_user)):
+async def submit_answer(question_index: int, answer: str, user = Depends(get_user)):
     try:
         question = quiz_questions[question_index - 1]
     except IndexError:
@@ -38,7 +43,5 @@ async def submit_answer(question_index: int, answer: str, user: User = Depends(g
 
     correct_answer = question["correct_answer"]
     is_correct = answer == correct_answer
-
-    # TODO: Store user's answers or score in the database if needed
 
     return {"is_correct": is_correct}
