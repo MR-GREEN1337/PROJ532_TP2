@@ -1556,6 +1556,210 @@
 
 
 
+{
+  "questions": [
+    {
+      "categorie": "cinema",
+      "question": "Qui a remporté l'Oscar du meilleur acteur pour son rôle dans \"Forrest Gump\" ?",
+      "reponses": [
+        {"texte": "Tom Hanks", "correcte": true},
+        {"texte": "Brad Pitt", "correcte": false},
+        {"texte": "Leonardo DiCaprio", "correcte": false},
+        {"texte": "Johnny Depp", "correcte": false}
+      ]
+    },
+    {
+      "categorie": "cinema",
+      "question": "Quel réalisateur a dirigé le film de science-fiction \"Inception\" ?",
+      "reponses": [
+        {"texte": "Christopher Nolan", "correcte": true},
+        {"texte": "Steven Spielberg", "correcte": false},
+        {"texte": "James Cameron", "correcte": false},
+        {"texte": "Quentin Tarantino", "correcte": false}
+      ]
+    },
+    {
+      "categorie": "cinema",
+      "question": "Dans quel film Francis Ford Coppola a-t-il exploré les horreurs de la guerre du Vietnam ?",
+      "reponses": [
+        {"texte": "Apocalypse Now", "correcte": true},
+        {"texte": "Platoon", "correcte": false},
+        {"texte": "Full Metal Jacket", "correcte": false},
+        {"texte": "Deer Hunter", "correcte": false}
+      ]
+    },
+    {
+      "categorie": "cinema",
+      "question": "Qui a remporté l'Oscar de la meilleure actrice pour son rôle dans \"La La Land\" ?",
+      "reponses": [
+        {"texte": "Emma Stone", "correcte": true},
+        {"texte": "Natalie Portman", "correcte": false},
+        {"texte": "Cate Blanchett", "correcte": false},
+        {"texte": "Jennifer Lawrence", "correcte": false}
+      ]
+    },
+    {
+      "categorie": "cinema",
+      "question": "Quel acteur a interprété le personnage principal dans le film \"The Truman Show\" ?",
+      "reponses": [
+        {"texte": "Jim Carrey", "correcte": true},
+        {"texte": "Tom Cruise", "correcte": false},
+        {"texte": "Will Smith", "correcte": false},
+        {"texte": "Johnny Depp", "correcte": false}
+      ]
+    },
+    {
+      "categorie": "cinema",
+      "question": "Dans quel film Alfred Hitchcock a-t-il utilisé la célèbre scène de la douche ?",
+      "reponses": [
+        {"texte": "Psychose", "correcte": true},
+        {"texte": "Les Oiseaux", "correcte": false},
+        {"texte": "Fenêtre sur cour", "correcte": false},
+        {"texte": "Sueurs froides", "correcte": false}
+      ]
+    },
+    {
+      "categorie": "cinema",
+      "question": "Qui a réalisé le film d'animation \"Le Roi Lion\" ?",
+      "reponses": [
+        {"texte": "Roger Allers et Rob Minkoff", "correcte": true},
+        {"texte": "Hayao Miyazaki", "correcte": false},
+        {"texte": "Andrew Stanton", "correcte": false},
+        {"texte": "Pete Docter", "correcte": false}
+      ]
+    },
+    {
+      "categorie": "cinema",
+      "question": "Quel film a remporté l'Oscar du meilleur film en 1994 ?",
+      "reponses": [
+        {"texte": "Forrest Gump", "correcte": true},
+        {"texte": "Pulp Fiction", "correcte": false},
+        {"texte": "The Shawshank Redemption", "correcte": false},
+        {"texte": "The Lion King", "correcte": false}
+      ]
+    },
+    {
+      "categorie": "cinema",
+      "question": "Quel acteur a joué le rôle de Tony Stark dans le film \"Iron Man\" ?",
+      "reponses": [
+        {"texte": "Robert Downey Jr.", "correcte": true},
+        {"texte": "Chris Evans", "correcte": false},
+        {"texte": "Chris Hemsworth", "correcte": false},
+        {"texte": "Mark Ruffalo", "correcte": false}
+      ]
+    },
+    {
+      "categorie": "cinema",
+      "question": "Quel réalisateur a dirigé \"The Dark Knight\" de la trilogie Batman ?",
+      "reponses": [
+        {"texte": "Christopher Nolan", "correcte": true},
+        {"texte": "Tim Burton", "correcte": false},
+        {"texte": "Zack Snyder", "correcte": false},
+        {"texte": "Joss Whedon", "correcte": false}
+      ]
+    },
+    {
+      "categorie": "cinema",
+      "question": "Quel film a remporté le premier Oscar du meilleur film en 1929 ?",
+      "reponses": [
+        {"texte": "Les Ailes", "correcte": true},
+        {"texte": "Metropolis", "correcte": false},
+        {"texte": "Sunset Boulevard", "correcte": false},
+        {"texte": "La Ruée vers l'or", "correcte": false}
+      ]
+    },
+    {
+      "categorie": "cinema",
+      "question": "Qui a joué le rôle principal dans \"Le Silence des agneaux\" ?",
+      "reponses": [
+        {"texte": "Anthony Hopkins", "correcte": true},
+        {"texte": "Morgan Freeman", "correcte": false},
+        {"texte": "Jack Nicholson", "correcte": false},
+        {"texte": "Kevin Spacey", "correcte": false}
+      ]
+    },
+    {
+      "categorie": "cinema",
+      "question": "Dans quel film Daniel Day-Lewis a-t-il remporté son troisième Oscar du meilleur acteur ?",
+      "reponses": [
+        {"texte": "Lincoln", "correcte": true},
+        {"texte": "There Will Be Blood", "correcte": false},
+        {"texte": "Gangs of New York", "correcte": false},
+        {"texte": "My Left Foot", "correcte": false}
+      ]
+    },
+    {
+      "categorie": "cinema",
+      "question": "Quel réalisateur a créé le monde virtuel de \"The Matrix\" ?",
+      "reponses": [
+        {"texte": "Les Wachowski", "correcte": true},
+        {"texte": "Ridley Scott", "correcte": false},
+        {"texte": "James Cameron", "correcte": false},
+        {"texte": "Steven Spielberg", "correcte": false}
+      ]
+    },
+    {
+      "categorie": "cinema",
+      "question": "Qui a remporté l'Oscar du meilleur réalisateur pour \"Birdman\" ?",
+      "reponses": [
+        {"texte": "Alejandro G. Iñárritu", "correcte": true},
+        {"texte": "Martin Scorsese", "correcte": false},
+        {"texte": "Quentin Tarantino", "correcte": false},
+        {"texte": "David Fincher", "correcte": false}
+      ]
+    },
+    {
+      "categorie": "cinema",
+      "question": "Dans quel film Johnny Depp incarne-t-il le capitaine Jack Sparrow ?",
+      "reponses": [
+        {"texte": "Pirates des Caraïbes: La Malédiction du Black Pearl", "correcte": true},
+        {"texte": "Edward aux mains d'argent", "correcte": false},
+        {"texte": "Sweeney Todd", "correcte": false},
+        {"texte": "Alice au pays des merveilles", "correcte": false}
+      ]
+    },
+    {
+      "categorie": "cinema",
+      "question": "Qui a réalisé \"Citizen Kane\", souvent considéré comme l'un des meilleurs films de tous les temps ?",
+      "reponses": [
+        {"texte": "Orson Welles", "correcte": true},
+        {"texte": "Alfred Hitchcock", "correcte": false},
+        {"texte": "Stanley Kubrick", "correcte": false},
+        {"texte": "Frank Capra", "correcte": false}
+      ]
+    },
+    {
+      "categorie": "cinema",
+      "question": "Quel film a remporté l'Oscar du meilleur film en 2019 ?",
+      "reponses": [
+        {"texte": "Parasite", "correcte": true},
+        {"texte": "1917", "correcte": false},
+        {"texte": "Joker", "correcte": false},
+        {"texte": "Once Upon a Time in Hollywood", "correcte": false}
+      ]
+    },
+    {
+      "categorie": "cinema",
+      "question": "Qui a joué le rôle de Vito Corleone dans \"Le Parrain\" ?",
+      "reponses": [
+        {"texte": "Marlon Brando", "correcte": true},
+        {"texte": "Al Pacino", "correcte": false},
+        {"texte": "Robert De Niro", "correcte": false},
+        {"texte": "James Caan", "correcte": false}
+      ]
+    },
+    {
+      "categorie": "cinema",
+      "question": "Quel réalisateur est derrière la trilogie du Seigneur des Anneaux ?",
+      "reponses": [
+        {"texte": "Peter Jackson", "correcte": true},
+        {"texte": "George Lucas", "correcte": false},
+        {"texte": "J.K. Rowling", "correcte": false},
+        {"texte": "Christopher Nolan", "correcte": false}
+      ]
+    }
+  ]
+}
 
 
 
