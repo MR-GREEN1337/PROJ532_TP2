@@ -615,4 +615,948 @@
 }
 
 
+{
+  "categorie": "mythologie et folklore",
+  "questions": [
+    {
+      "question": "Qui est le dieu grec du vin, de la fête et de l'ivresse ?",
+      "options": [
+        {"a": "Zeus"},
+        {"b": "Dionysos", "correct": true},
+        {"c": "Apollon"},
+        {"d": "Hermès"}
+      ]
+    },
+    {
+      "question": "Quel monstre de la mythologie grecque était mi-femme, mi-oiseau, et attirait les marins avec son chant enchanteur ?",
+      "options": [
+        {"a": "Méduse"},
+        {"b": "Harpie", "correct": true},
+        {"c": "Sphinx"},
+        {"d": "Sirène"}
+      ]
+    },
+    {
+      "question": "Quelle déesse romaine est l'équivalent de la déesse grecque Athéna ?",
+      "options": [
+        {"a": "Vénus"},
+        {"b": "Junon", "correct": true},
+        {"c": "Minerve"},
+        {"d": "Diane"}
+      ]
+    },
+    {
+      "question": "Quel héros grec était célèbre pour avoir tué le Minotaure dans le labyrinthe de Crète ?",
+      "options": [
+        {"a": "Thésée", "correct": true},
+        {"b": "Persée"},
+        {"c": "Héraclès"},
+        {"d": "Achille"}
+      ]
+    },
+    {
+      "question": "Quel dieu égyptien était associé au soleil et était souvent représenté par un faucon ?",
+      "options": [
+        {"a": "Osiris"},
+        {"b": "Râ", "correct": true},
+        {"c": "Anubis"},
+        {"d": "Isis"}
+      ]
+    },
+    {
+      "question": "Dans la mythologie nordique, quel animal légendaire est lié au dieu Odin et est souvent représenté comme un cheval à huit jambes ?",
+      "options": [
+        {"a": "Loup Fenrir"},
+        {"b": "Dragon Níðhöggr"},
+        {"c": "Cheval Sleipnir", "correct": true},
+        {"d": "Aigle Hræsvelgr"}
+      ]
+    },
+    {
+      "question": "Quelle créature de la mythologie chinoise est souvent considérée comme un symbole de sagesse et de longévité ?",
+      "options": [
+        {"a": "Dragon", "correct": true},
+        {"b": "Phoenix"},
+        {"c": "Tortue noire"},
+        {"d": "Licorne qilin"}
+      ]
+    },
+    {
+      "question": "Quel héros de la mythologie grecque est connu pour avoir tué le monstre Chimère, qui crachait du feu ?",
+      "options": [
+        {"a": "Persée"},
+        {"b": "Bellerophon", "correct": true},
+        {"c": "Thésée"},
+        {"d": "Héraclès"}
+      ]
+    },
+    {
+      "question": "Quelle créature de la mythologie égyptienne est représentée comme ayant la tête d'un crocodile et le corps d'un lion ?",
+      "options": [
+        {"a": "Anubis"},
+        {"b": "Sobek", "correct": true},
+        {"c": "Hathor"},
+        {"d": "Horus"}
+      ]
+    },
+    {
+      "question": "Quelle divinité de la mythologie hindoue est souvent représentée comme ayant plusieurs bras et est la déesse de la destruction ?",
+      "options": [
+        {"a": "Lakshmi"},
+        {"b": "Parvati"},
+        {"c": "Kali", "correct": true},
+        {"d": "Saraswati"}
+      ]
+    },
+    {
+      "question": "Dans la mythologie grecque, quel être était composé de parties de lion, de chèvre et de serpent, et terrorisait la région de Lycie ?",
+      "options": [
+        {"a": "Minotaure"},
+        {"b": "Chimère", "correct": true},
+        {"c": "Harpie"},
+        {"d": "Sphinx"}
+      ]
+    },
+    {
+      "question": "Quel dieu romain est l'équivalent du dieu grec Hermès, messager des dieux ?",
+      "options": [
+        {"a": "Mercure", "correct": true},
+        {"b": "Neptune"},
+        {"c": "Mars"},
+        {"d": "Bacchus"}
+      ]
+    },
+    {
+      "question": "Quel personnage de la mythologie nordique est chargé de veiller sur le pont Bifröst, qui relie le monde des dieux à celui des mortels ?",
+      "options": [
+        {"a": "Loki"},
+        {"b": "Heimdall", "correct": true},
+        {"c": "Thor"},
+        {"d": "Odin"}
+      ]
+    },
+    {
+      "question": "Quel être mythologique de la culture japonaise est souvent décrit comme une créature aquatique avec une tête de carpe et un corps de dragon ?",
+      "options": [
+        {"a": "Kitsune"},
+        {"b": "Kappa"},
+        {"c": "Tengu"},
+        {"d": "Koi-no-katachi", "correct": true}
+      ]
+    },
+    {
+      "question": "Dans la mythologie grecque, quel Titan est condamné à porter le ciel sur ses épaules pour l'éternité ?",
+      "options": [
+        {"a": "Cronos"},
+        {"b": "Atlas", "correct": true},
+        {"c": "Prométhée"},
+        {"d": "Épiméthée"}
+      ]
+    },
+    {
+      "question": "Quel être mythologique de la culture nord-amérindienne est souvent décrit comme une créature à moitié homme, à moitié cerf ?",
+      "options": [
+        {"a": "Wendigo"},
+        {"b": "Sasquatch"},
+        {"c": "Kokopelli"},
+        {"d": "Cernunnos", "correct": true}
+      ]
+    },
+    {
+      "question": "Dans la mythologie égyptienne, quel dieu est associé à la momification et au passage vers l'au-delà ?",
+      "options": [
+        {"a": "Râ"},
+        {"b": "Anubis", "correct": true},
+        {"c": "Horus"},
+        {"d": "Osiris"}
+      ]
+    },
+    {
+      "question": "Quelle créature fantastique de la mythologie chinoise est souvent représentée comme un lion avec une corne sur le front ?",
+      "options": [
+        {"a": "Dragon"},
+        {"b": "Qilin", "correct": true},
+        {"c": "Fenghuang"},
+        {"d": "Pixiu"}
+      ]
+    },
+    {
+      "question": "Quelle déesse grecque est associée à l'amour, à la beauté et à la séduction ?",
+      "options": [
+        {"a": "Athéna"},
+        {"b": "Aphrodite", "correct": true},
+        {"c": "Héra"},
+        {"d": "Déméter"}
+      ]
+    },
+    {
+      "question": "Quel être mythologique de la culture nord-amérindienne est souvent décrit comme un serpent à plumes ?",
+      "options": [
+        {"a": "Manitou"},
+        {"b": "Quetzalcoatl", "correct": true},
+        {"c": "Chaneques"},
+        {"d": "Coyote"}
+      ]
+    }
+  ]
+}
+
+
+
+{
+  "categorie": "langue",
+  "questions": [
+    {
+      "question": "Combien de langues officielles l'Union européenne a-t-elle ?",
+      "options": [
+        {"a": 15},
+        {"b": 20},
+        {"c": 24},
+        {"d": 27, "correct": true}
+      ]
+    },
+    {
+      "question": "Quelle est la langue officielle de l'Égypte ?",
+      "options": [
+        {"a": "Arabe", "correct": true},
+        {"b": "Persan"},
+        {"c": "Turc"},
+        {"d": "Berbère"}
+      ]
+    },
+    {
+      "question": "Quel est le nombre approximatif de langues parlées dans le monde aujourd'hui ?",
+      "options": [
+        {"a": 2000},
+        {"b": 4000},
+        {"c": 7000, "correct": true},
+        {"d": 10000}
+      ]
+    },
+    {
+      "question": "Quelle est la langue officielle du Japon ?",
+      "options": [
+        {"a": "Chinois"},
+        {"b": "Coréen"},
+        {"c": "Japonais", "correct": true},
+        {"d": "Vietnamien"}
+      ]
+    },
+    {
+      "question": "Combien de langues sont officielles aux Nations unies ?",
+      "options": [
+        {"a": 4},
+        {"b": 6},
+        {"c": 9},
+        {"d": 6, "correct": true}
+      ]
+    },
+    {
+      "question": "Quelle langue est la plus parlée au monde en termes de nombre de locuteurs natifs ?",
+      "options": [
+        {"a": "Anglais"},
+        {"b": "Espagnol"},
+        {"c": "Mandarin", "correct": true},
+        {"d": "Hindi"}
+      ]
+    },
+    {
+      "question": "Combien de langues officielles l'Inde reconnaît-elle au niveau national ?",
+      "options": [
+        {"a": 15},
+        {"b": 22},
+        {"c": 30},
+        {"d": 22, "correct": true}
+      ]
+    },
+    {
+      "question": "Quelle est la langue officielle du Brésil ?",
+      "options": [
+        {"a": "Espagnol"},
+        {"b": "Portugais", "correct": true},
+        {"c": "Italien"},
+        {"d": "Néerlandais"}
+      ]
+    },
+    {
+      "question": "Combien de lettres compte l'alphabet cyrillique, utilisé par plusieurs langues slaves ?",
+      "options": [
+        {"a": 26},
+        {"b": 29},
+        {"c": 33},
+        {"d": 33, "correct": true}
+      ]
+    },
+    {
+      "question": "Quelle est la langue officielle du Nigeria ?",
+      "options": [
+        {"a": "Yoruba"},
+        {"b": "Igbo"},
+        {"c": "Haoussa"},
+        {"d": "Anglais", "correct": true}
+      ]
+    },
+    {
+      "question": "Quelle est la langue officielle de la Belgique ?",
+      "options": [
+        {"a": "Flamand"},
+        {"b": "Allemand"},
+        {"c": "Néerlandais"},
+        {"d": "Trois langues sont officielles : néerlandais, français, allemand", "correct": true}
+      ]
+    },
+    {
+      "question": "Combien de langues officielles l'Afrique du Sud reconnaît-elle au niveau national ?",
+      "options": [
+        {"a": 9},
+        {"b": 11},
+        {"c": 13},
+        {"d": 11, "correct": true}
+      ]
+    },
+    {
+      "question": "Quelle est la langue officielle de l'Éthiopie ?",
+      "options": [
+        {"a": "Swahili"},
+        {"b": "Amharique", "correct": true},
+        {"c": "Oromo"},
+        {"d": "Somali"}
+      ]
+    },
+    {
+      "question": "Quelle est la langue officielle du Canada ?",
+      "options": [
+        {"a": "Anglais"},
+        {"b": "Français", "correct": true},
+        {"c": "Bilingue (anglais et français)"},
+        {"d": "Autochtone"}
+      ]
+    },
+    {
+      "question": "Combien de langues sont officielles en Suisse ?",
+      "options": [
+        {"a": 2},
+        {"b": 3, "correct": true},
+        {"c": 4},
+        {"d": 5}
+      ]
+    },
+    {
+      "question": "Quelle langue est la plus parlée en tant que deuxième langue dans le monde ?",
+      "options": [
+        {"a": "Français"},
+        {"b": "Espagnol"},
+        {"c": "Mandarin"},
+        {"d": "Anglais", "correct": true}
+      ]
+    },
+    {
+      "question": "Quelle est la langue officielle de Singapour ?",
+      "options": [
+        {"a": "Malay"},
+        {"b": "Tamil"},
+        {"c": "Chinois mandarin"},
+        {"d": "Anglais", "correct": true}
+      ]
+    },
+    {
+      "question": "Combien de langues sont officielles en Nouvelle-Zélande ?",
+      "options": [
+        {"a": 1},
+        {"b": 2},
+        {"c": 3, "correct": true},
+        {"d": 4}
+      ]
+    },
+    {
+      "question": "Quelle est la langue officielle de l'Iran ?",
+      "options": [
+        {"a": "Arabe"},
+        {"b": "Persan (Farsi)", "correct": true},
+        {"c": "Kurde"},
+        {"d": "Turc"}
+      ]
+    },
+    {
+      "question": "Combien de langues amérindiennes sont parlées aux États-Unis ?",
+      "options": [
+        {"a": 50},
+        {"b": 100},
+        {"c": 150},
+        {"d": "Plus de 150", "correct": true}
+      ]
+    }
+  ]
+}
+
+
+
+{
+  "categorie": "sports",
+  "questions": [
+    {
+      "question": "Quel joueur de tennis détient le record du plus grand nombre de victoires en Grand Chelem dans l'histoire du tennis masculin ?",
+      "options": [
+        {"a": "Roger Federer"},
+        {"b": "Rafael Nadal"},
+        {"c": "Novak Djokovic", "correct": true},
+        {"d": "Pete Sampras"}
+      ]
+    },
+    {
+      "question": "Dans quel pays est né le célèbre pilote de Formule 1 Ayrton Senna ?",
+      "options": [
+        {"a": "Brésil", "correct": true},
+        {"b": "Italie"},
+        {"c": "Allemagne"},
+        {"d": "France"}
+      ]
+    },
+    {
+      "question": "Quel boxeur a été surnommé 'The Greatest' et a remporté des titres mondiaux dans plusieurs catégories de poids ?",
+      "options": [
+        {"a": "Muhammad Ali", "correct": true},
+        {"b": "Mike Tyson"},
+        {"c": "Floyd Mayweather"},
+        {"d": "Sugar Ray Leonard"}
+      ]
+    },
+    {
+      "question": "En quelle année les premiers Jeux olympiques modernes ont-ils eu lieu ?",
+      "options": [
+        {"a": "1886"},
+        {"b": "1896", "correct": true},
+        {"c": "1906"},
+        {"d": "1916"}
+      ]
+    },
+    {
+      "question": "Quelle équipe de football a remporté le plus grand nombre de Coupes du Monde de la FIFA ?",
+      "options": [
+        {"a": "Allemagne"},
+        {"b": "Brésil", "correct": true},
+        {"c": "Argentine"},
+        {"d": "Italie"}
+      ]
+    },
+    {
+      "question": "Quel joueur de basketball a remporté le plus grand nombre de titres de MVP (Most Valuable Player) de la NBA ?",
+      "options": [
+        {"a": "Michael Jordan"},
+        {"b": "LeBron James", "correct": true},
+        {"c": "Kobe Bryant"},
+        {"d": "Magic Johnson"}
+      ]
+    },
+    {
+      "question": "Quel pays a accueilli les Jeux olympiques d'été de 2008 ?",
+      "options": [
+        {"a": "Russie"},
+        {"b": "Chine", "correct": true},
+        {"c": "États-Unis"},
+        {"d": "Brésil"}
+      ]
+    },
+    {
+      "question": "Quel est le seul sport individuel à avoir été joué sur la lune ?",
+      "options": [
+        {"a": "Golf", "correct": true},
+        {"b": "Tennis"},
+        {"c": "Course à pied"},
+        {"d": "Saut en hauteur"}
+      ]
+    },
+    {
+      "question": "Qui détient le record du monde du marathon masculin ?",
+      "options": [
+        {"a": "Eliud Kipchoge"},
+        {"b": "Dennis Kipruto Kimetto"},
+        {"c": "Eliud Kipchoge", "correct": true},
+        {"d": "Haile Gebrselassie"}
+      ]
+    },
+    {
+      "question": "Dans quel sport le terme 'hat-trick' est-il couramment utilisé pour décrire la réalisation de trois succès consécutifs ?",
+      "options": [
+        {"a": "Golf"},
+        {"b": "Cricket", "correct": true},
+        {"c": "Football"},
+        {"d": "Basketball"}
+      ]
+    },
+    {
+      "question": "Quel joueur de baseball américain est célèbre pour avoir battu le record du plus grand nombre de home runs en une saison ?",
+      "options": [
+        {"a": "Babe Ruth"},
+        {"b": "Hank Aaron"},
+        {"c": "Barry Bonds", "correct": true},
+        {"d": "Mickey Mantle"}
+      ]
+    },
+    {
+      "question": "En 1992, quel joueur de basket-ball américain a fait partie de la 'Dream Team' qui a remporté la médaille d'or aux Jeux olympiques de Barcelone ?",
+      "options": [
+        {"a": "Larry Bird"},
+        {"b": "Michael Jordan", "correct": true},
+        {"c": "Magic Johnson"},
+        {"d": "Charles Barkley"}
+      ]
+    },
+    {
+      "question": "Quel pays a remporté la Coupe du Monde de la FIFA 2018 en Russie ?",
+      "options": [
+        {"a": "Allemagne"},
+        {"b": "Brésil"},
+        {"c": "France", "correct": true},
+        {"d": "Argentine"}
+      ]
+    },
+    {
+      "question": "Quel joueur de football a remporté le plus grand nombre de Ballons d'Or de la FIFA ?",
+      "options": [
+        {"a": "Lionel Messi"},
+        {"b": "Cristiano Ronaldo", "correct": true},
+        {"c": "Zinedine Zidane"},
+        {"d": "Michel Platini"}
+      ]
+    },
+    {
+      "question": "En natation, quel nageur détient le record du monde du 100 mètres nage libre masculin en bassin long ?",
+      "options": [
+        {"a": "Michael Phelps"},
+        {"b": "Cesar Cielo"},
+        {"c": "Alain Bernard"},
+        {"d": "César Cielo", "correct": true}
+      ]
+    },
+    {
+      "question": "Quelle ville a accueilli les Jeux olympiques d'hiver de 2014 ?",
+      "options": [
+        {"a": "Vancouver"},
+        {"b": "Sotchi", "correct": true},
+        {"c": "Pyeongchang"},
+        {"d": "Turin"}
+      ]
+    },
+    {
+      "question": "Quel est le nom du tournoi de tennis qui se joue sur gazon et est le plus ancien du monde ?",
+      "options": [
+        {"a": "US Open"},
+        {"b": "Roland-Garros"},
+        {"c": "Wimbledon", "correct": true},
+        {"d": "Open d'Australie"}
+      ]
+    },
+    {
+      "question": "Quel joueur de football est souvent surnommé 'CR7' ?",
+      "options": [
+        {"a": "Lionel Messi"},
+        {"b": "Neymar"},
+        {"c": "Cristiano Ronaldo", "correct": true},
+        {"d": "Kylian Mbappé"}
+      ]
+    },
+    {
+      "question": "Qui détient le record du monde du saut à la perche masculin ?",
+      "options": [
+        {"a": "Renaud Lavillenie"},
+        {"b": "Sergey Bubka", "correct": true},
+        {"c": "Thiago Braz"},
+        {"d": "Armand Duplantis"}
+      ]
+    },
+    {
+      "question": "Dans quel sport le terme 'strike' est-il utilisé pour décrire le fait qu'un joueur réussit à abattre tous les quilles en une seule fois ?",
+      "options": [
+        {"a": "Tennis"},
+        {"b": "Bowling", "correct": true},
+        {"c": "Cricket"},
+        {"d": "Baseball"}
+      ]
+    }
+  ]
+}
+
+
+
+{
+  "categorie": "histoire",
+  "questions": [
+    {
+      "question": "Qui était le premier empereur de Chine, fondateur de la dynastie Qin ?",
+      "options": [
+        {"a": "Han Wudi"},
+        {"b": "Qin Shi Huang", "correct": true},
+        {"c": "Tang Taizong"},
+        {"d": "Wu Zetian"}
+      ]
+    },
+    {
+      "question": "Quelle bataille de la Première Guerre mondiale est souvent considérée comme le tournant de la guerre sur le front de l'Ouest ?",
+      "options": [
+        {"a": "Bataille de la Somme"},
+        {"b": "Bataille de Verdun"},
+        {"c": "Bataille de la Marne"},
+        {"d": "Bataille de la Somme", "correct": true}
+      ]
+    },
+    {
+      "question": "Qui était le roi d'Angleterre lors de la signature de la Magna Carta en 1215 ?",
+      "options": [
+        {"a": "Richard Cœur de Lion"},
+        {"b": "Jean sans Terre", "correct": true},
+        {"c": "Henri II"},
+        {"d": "Édouard III"}
+      ]
+    },
+    {
+      "question": "Quel explorateur portugais a été le premier Européen à doubler le cap de Bonne-Espérance en 1488 ?",
+      "options": [
+        {"a": "Vasco da Gama"},
+        {"b": "Ferdinand Magellan"},
+        {"c": "Barthélemy Dias", "correct": true},
+        {"d": "Hernán Cortés"}
+      ]
+    },
+    {
+      "question": "Quelle ancienne civilisation a construit les pyramides de Gizeh en Égypte ?",
+      "options": [
+        {"a": "Mésopotamie"},
+        {"b": "Égypte ancienne", "correct": true},
+        {"c": "Grèce antique"},
+        {"d": "Indus Valley"}
+      ]
+    },
+    {
+      "question": "Quelle était la principale cause de la Révolution française en 1789 ?",
+      "options": [
+        {"a": "Inégalités économiques et sociales"},
+        {"b": "Influence des philosophes des Lumières"},
+        {"c": "Mauvaise gestion financière du roi Louis XVI"},
+        {"d": "Toutes les réponses sont correctes", "correct": true}
+      ]
+    },
+    {
+      "question": "Quelle dynastie chinoise a construit la Grande Muraille de Chine au IIIe siècle avant notre ère ?",
+      "options": [
+        {"a": "Han"},
+        {"b": "Qin", "correct": true},
+        {"c": "Tang"},
+        {"d": "Ming"}
+      ]
+    },
+    {
+      "question": "Quel événement a marqué le début de la Première Guerre mondiale en 1914 ?",
+      "options": [
+        {"a": "Assassinat de l'archiduc François-Ferdinand"},
+        {"b": "Invasion de la Pologne par l'Allemagne"},
+        {"c": "Bombardement de Pearl Harbor"},
+        {"d": "Assassinat de l'archiduc François-Ferdinand", "correct": true}
+      ]
+    },
+    {
+      "question": "Quel empereur romain a adopté le christianisme comme religion d'État au IVe siècle de notre ère ?",
+      "options": [
+        {"a": "Auguste"},
+        {"b": "Néron"},
+        {"c": "Constantin", "correct": true},
+        {"d": "Caligula"}
+      ]
+    },
+    {
+      "question": "Qui était le dirigeant de l'Union soviétique au cours de la Seconde Guerre mondiale ?",
+      "options": [
+        {"a": "Vladimir Poutine"},
+        {"b": "Joseph Staline", "correct": true},
+        {"c": "Lénine"},
+        {"d": "Mikhaïl Gorbatchev"}
+      ]
+    },
+    {
+      "question": "Quel événement a déclenché la guerre de Sécession aux États-Unis en 1861 ?",
+      "options": [
+        {"a": "Attaque de Pearl Harbor"},
+        {"b": "Bombardement de Fort Sumter", "correct": true},
+        {"c": "Bataille de Gettysburg"},
+        {"d": "Proclamation d'émancipation"}
+      ]
+    },
+    {
+      "question": "Quel empire a été dirigé par Suleiman le Magnifique au XVIe siècle ?",
+      "options": [
+        {"a": "Empire romain"},
+        {"b": "Empire ottoman", "correct": true},
+        {"c": "Empire perse"},
+        {"d": "Empire mongol"}
+      ]
+    },
+    {
+      "question": "Quel dirigeant politique et militaire français a mené les troupes alliées à la victoire lors de la bataille de Yorktown pendant la guerre d'indépendance américaine ?",
+      "options": [
+        {"a": "Napoléon Bonaparte"},
+        {"b": "Louis XIV"},
+        {"c": "Marquis de Lafayette"},
+        {"d": "Rochambeau", "correct": true}
+      ]
+    },
+    {
+      "question": "Quelle ancienne civilisation a construit la cité de Machu Picchu au XVe siècle au Pérou ?",
+      "options": [
+        {"a": "Aztèques"},
+        {"b": "Incas", "correct": true},
+        {"c": "Mayas"},
+        {"d": "Olmèques"}
+      ]
+    },
+    {
+      "question": "Quel événement a marqué la fin de la guerre froide en 1989 ?",
+      "options": [
+        {"a": "Chute du mur de Berlin", "correct": true},
+        {"b": "Dissolution de l'URSS"},
+        {"c": "Accords d'Helsinki"},
+        {"d": "Crise des missiles cubains"}
+      ]
+    },
+    {
+      "question": "Quelle reine d'Égypte est célèbre pour sa liaison avec Marc Antoine et Jules César ?",
+      "options": [
+        {"a": "Néfertiti"},
+        {"b": "Hatchepsout"},
+        {"c": "Cléopâtre", "correct": true},
+        {"d": "Tiyi"}
+      ]
+    },
+    {
+      "question": "Quel explorateur italien a atteint les Amériques en 1492 sous le patronage des Rois catholiques d'Espagne ?",
+      "options": [
+        {"a": "Marco Polo"},
+        {"b": "Vasco da Gama"},
+        {"c": "Christophe Colomb", "correct": true},
+        {"d": "Hernán Cortés"}
+      ]
+    },
+    {
+      "question": "Quel événement a marqué le début de la Révolution industrielle en Angleterre au XVIIIe siècle ?",
+      "options": [
+        {"a": "Invention de la machine à vapeur"},
+        {"b": "Découverte du charbon"},
+        {"c": "Lancement du chemin de fer"},
+        {"d": "Invention du métier à tisser mécanique", "correct": true}
+      ]
+    },
+    {
+      "question": "Qui était le fondateur du maoïsme et le dirigeant de la République populaire de Chine jusqu'à sa mort en 1976 ?",
+      "options": [
+        {"a": "Deng Xiaoping"},
+        {"b": "Sun Yat-sen"},
+        {"c": "Mao Zedong", "correct": true},
+        {"d": "Chiang Kai-shek"}
+      ]
+    },
+    {
+      "question": "Quel empire a été fondé par Gengis Khan au XIIIe siècle ?",
+      "options": [
+        {"a": "Empire mongol", "correct": true},
+        {"b": "Empire ottoman"},
+        {"c": "Empire romain"},
+        {"d": "Empire perse"}
+      ]
+    }
+  ]
+}
+
+
+
+
+{
+  "categorie": "geographie",
+  "questions": [
+    {
+      "question": "Quelle est la capitale du Lesotho ?",
+      "options": [
+        {"a": "Maseru", "correct": true},
+        {"b": "Nairobi"},
+        {"c": "Luanda"},
+        {"d": "Asunción"}
+      ]
+    },
+    {
+      "question": "Quelle est la capitale du Bhoutan ?",
+      "options": [
+        {"a": "Thimphou", "correct": true},
+        {"b": "Tachkent"},
+        {"c": "Katmandou"},
+        {"d": "Colombo"}
+      ]
+    },
+    {
+      "question": "Quelle est la capitale de la Norvège ?",
+      "options": [
+        {"a": "Oslo", "correct": true},
+        {"b": "Hanoï"},
+        {"c": "Panama"},
+        {"d": "Vilnius"}
+      ]
+    },
+    {
+      "question": "Quelle est la capitale du Suriname ?",
+      "options": [
+        {"a": "Paramaribo", "correct": true},
+        {"b": "Niamey"},
+        {"c": "Port Moresby"},
+        {"d": "Tbilissi"}
+      ]
+    },
+    {
+      "question": "Quelle est la capitale de la Moldavie ?",
+      "options": [
+        {"a": "Chișinău", "correct": true},
+        {"b": "Managua"},
+        {"c": "Georgetown"},
+        {"d": "Libreville"}
+      ]
+    },
+    {
+      "question": "Quelle est la capitale de la Mongolie ?",
+      "options": [
+        {"a": "Oulan-Bator", "correct": true},
+        {"b": "Tegucigalpa"},
+        {"c": "Dodoma"},
+        {"d": "Oslo"}
+      ]
+    },
+    {
+      "question": "Quelle est la capitale de la Papouasie-Nouvelle-Guinée ?",
+      "options": [
+        {"a": "Port Moresby", "correct": true},
+        {"b": "Astana"},
+        {"c": "Banjul"},
+        {"d": "Bissau"}
+      ]
+    },
+    {
+      "question": "Quelle est la capitale du Botswana ?",
+      "options": [
+        {"a": "Gaborone", "correct": true},
+        {"b": "Conakry"},
+        {"c": "Manille"},
+        {"d": "Bamako"}
+      ]
+    },
+    {
+      "question": "Quelle est la capitale de l'Arménie ?",
+      "options": [
+        {"a": "Erevan", "correct": true},
+        {"b": "San Salvador"},
+        {"c": "Luanda"},
+        {"d": "Oslo"}
+      ]
+    },
+    {
+      "question": "Quelle est la capitale de la Lettonie ?",
+      "options": [
+        {"a": "Riga", "correct": true},
+        {"b": "Yaoundé"},
+        {"c": "Oslo"},
+        {"d": "Antananarivo"}
+      ]
+    },
+    {
+      "question": "Quelle est la capitale du Turkménistan ?",
+      "options": [
+        {"a": "Achgabat", "correct": true},
+        {"b": "Port Moresby"},
+        {"c": "Accra"},
+        {"d": "Bucarest"}
+      ]
+    },
+    {
+      "question": "Quelle est la capitale du Costa Rica ?",
+      "options": [
+        {"a": "San José", "correct": true},
+        {"b": "Porto-Novo"},
+        {"c": "Tbilissi"},
+        {"d": "Oslo"}
+      ]
+    },
+    {
+      "question": "Quelle est la capitale de l'Ouganda ?",
+      "options": [
+        {"a": "Kampala", "correct": true},
+        {"b": "Asunción"},
+        {"c": "Oslo"},
+        {"d": "Mogadiscio"}
+      ]
+    },
+    {
+      "question": "Quelle est la capitale du Liban ?",
+      "options": [
+        {"a": "Beyrouth", "correct": true},
+        {"b": "Vaduz"},
+        {"c": "Lilongwe"},
+        {"d": "Oslo"}
+      ]
+    },
+    {
+      "question": "Quelle est la capitale de la Sierra Leone ?",
+      "options": [
+        {"a": "Freetown", "correct": true},
+        {"b": "Belgrade"},
+        {"c": "Oslo"},
+        {"d": "Dodoma"}
+      ]
+    },
+    {
+      "question": "Quelle est la capitale du Qatar ?",
+      "options": [
+        {"a": "Doha", "correct": true},
+        {"b": "Accra"},
+        {"c": "Managua"},
+        {"d": "Oslo"}
+      ]
+    },
+    {
+      "question": "Quelle est la capitale du Gabon ?",
+      "options": [
+        {"a": "Libreville", "correct": true},
+        {"b": "Lomé"},
+        {"c": "Oslo"},
+        {"d": "Budapest"}
+      ]
+    },
+    {
+      "question": "Quelle est la capitale de la Géorgie ?",
+      "options": [
+        {"a": "Tbilissi", "correct": true},
+        {"b": "Mbabane"},
+        {"c": "Oslo"},
+        {"d": "Suva"}
+      ]
+    },
+    {
+      "question": "Quelle est la capitale du Panama ?",
+      "options": [
+        {"a": "Panama", "correct": true},
+        {"b": "Astana"},
+        {"c": "Oslo"},
+        {"d": "Tripoli"}
+      ]
+    },
+    {
+      "question": "Quelle est la capitale du Luxembourg ?",
+      "options": [
+        {"a": "Luxembourg", "correct": true},
+        {"b": "Porto-Novo"},
+        {"c": "Oslo"},
+        {"d": "Reykjavik"}
+      ]
+    }
+  ]
+}
+
+
+
+
+
+
 
