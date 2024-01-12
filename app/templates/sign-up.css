@@ -1,0 +1,323 @@
+body{
+	background-color: rgb(237, 237, 237);
+}
+
+#forget{
+	position: absolute;
+	top: 0px;
+	right: 30px;
+
+	display: grid;
+	grid-template-columns: 200px auto;
+}
+
+#forget p{
+	font-family: "Bahnschrift Light",sans-serif;
+}
+
+#forget .a0{
+	height: 23px;
+	width: 100px;
+
+	padding-top: 5px;
+	position: relative;
+	top: 10px;
+
+	color: white;
+	font-family: "Encode Sans SC",sans-serif;
+	font-size: 14px;
+	text-decoration: none;
+	text-align: center;
+	background-color: rgb(153, 153, 153);
+
+	user-select: none;
+	z-index: 2;
+
+	transform-origin: bottom left;
+	transition: transform 2s ease ;
+}
+
+#forget .a0:hover{
+	transform-origin: bottom left;
+	transform: rotate(70deg);
+}
+
+.a1{
+	height: 23px;
+	width: 100px;
+
+	padding-top: 5px;
+	position: absolute;
+	top: 10px;
+	right: 0px;
+
+	color: white;
+	font-family: "Encode Sans SC",sans-serif;
+	font-size: 14px;
+	text-decoration: none;
+	text-align: center;
+	background-color: rgb(255, 209, 82);
+
+	z-index:1;
+}
+
+#first-section{
+	height: 94vh;
+	width: 49vw;
+
+	position: absolute;
+	top: 3vh;
+	left: 6.1vw;
+
+	border-radius: 5px ;
+
+	background-color: rgb(255, 196, 87);
+
+	display: grid;
+	grid-template-rows: auto auto;
+
+	box-shadow: 0 4px 6px 0 rgba(0,0,0,0.1) , 0 4px 20px 0 rgba(0,0,0,0.2);
+}
+
+.top-subsection{
+	display: grid;
+	grid-template-columns: 60px auto;
+
+	position: relative;
+	top: 24px;
+	left: 10px;
+}
+
+#first-section .top-subsection img{
+	height: 50px;
+	width: 50px;
+
+	position: relative;
+	top: 2px;
+
+	animation: rotate-setting-icon 3s ease-out 0s infinite normal;
+}
+
+#first-section .top-subsection h1{
+	color: white;
+	font-family: "Bahnschrift Light",sans-serif;
+	font-size: 20px;
+}
+
+#first-section .midlle-subsection h2{
+	text-align: center;
+	font-family: "Encode Sans SC",sans-serif;
+	font-size: 55px;
+	color: white;
+}
+
+#second-section{
+	height: 84vh;
+	width: 37vw;
+
+	position: absolute;
+	top: 8vh;
+	right: 6.7%;
+	bottom: 8vh;
+
+	border-radius: 5px;
+	background-color: white;
+
+	display: grid;
+	grid-template-rows: 120px auto 95px auto;
+
+	box-shadow: 0 4px 4px 0 rgba(0,0,0,0.2) , 0 4px 12px 0 rgba(0,0,0,0.2);
+}
+
+.head-section {
+	position: relative;
+	top: 0px;
+	left: 30px;
+
+	font-family: "Encode Sans SC",sans-serif;
+}
+
+.head-section h3{
+	position: relative;
+	top: -9px;
+
+	color: rgb(255, 188, 64);
+	font-size: 35px;
+
+	position: absolute;
+	left: 190px;
+
+}
+
+.middle-section{
+	position: relative;
+	left: 65px;
+
+	display: grid;
+	grid-template-rows: 60px 60px 60px auto;
+}
+
+.middle-section .email{
+	width: 380px;
+}
+
+.middle-section img{
+	height: 24px;
+	width: 24px;
+
+	position: relative;
+	top: 5px;
+	left: 10px;
+
+	z-index: 2;
+}
+
+#icon-minus{
+	height: 15px;
+	width: 15px;
+	transform: rotate(-90deg);
+	position: relative;
+	top: 10px;
+	left: 40px;
+}
+
+.input-email{
+	display: grid;
+	grid-template-columns: 0px 0px auto auto;
+
+	position: relative;
+}
+
+.input-section{
+	display: grid;
+	grid-template-columns: 0px 0px 230px 0px 0px auto ;
+}
+
+.middle-section input{
+	height: 35px;
+	width: 150px;
+	padding-left: 60px;
+
+	border: none;
+	border-radius: 4px;
+
+	background-color: rgb(237, 237, 237);
+	font-family: "Bahnschrift",sans-serif;
+	font-size: 15px;
+}
+
+.final-section{
+	display: grid;
+	place-items: center;
+}
+
+.final-section button{
+	height: 35px;
+	width: 130px;
+
+	color: white;
+	font-family: "Encode Sans SC",sans-serif;
+	font-size: 14px;
+
+	background-color: rgb(255, 196, 87);
+	border: none;
+	border-radius: 5px;
+
+	user-select: none;
+}
+
+.final-section button:hover{
+	animation: move-button 0.8s ease 0s 1 normal;
+}
+
+.bottom-section{
+	position: relative;
+	bottom: 5px;
+}
+
+.bottom-section p{
+	font-family: "Encode Sans SC",sans-serif;
+	text-align: center;
+}
+
+.sign-up-link{
+	display: grid;
+	grid-template-columns: 0px auto 0px auto 0px auto ;
+	justify-content: space-evenly;
+}
+
+.sign-up-link div{
+	height: 25px;
+	width: 110px;
+	padding-top: 7px;
+	padding-left: 20px;
+	border: 1px solid black;
+
+	background-color: white;
+
+	text-align: center;
+	z-index: 1;
+}
+
+.sign-up-link img{
+	height: 20px;
+	width: 20px;
+
+	position: relative;
+	left: 25px;
+	top: 8px;
+	z-index: 2;
+}
+
+.input-key-str{
+	display: grid;
+	grid-template-columns: 0px 0px auto ;
+}
+
+@keyframes move-button{
+	25%{
+		transform: rotate(6deg);
+		padding-left: 1.1em;
+	}
+
+	75%{
+		transform: rotate(-3deg);
+		padding-right: 1.1em;
+	}
+
+	100%{
+		transform: rotate(0deg);
+	}
+}
+
+@keyframes rotate-setting-icon{
+	0%{
+		transform: rotate(0deg);
+	}
+
+	25%{
+		transform: rotate(-90deg);
+	}
+
+	50%{
+		transform: rotate(-180deg);
+	}
+
+	75%{
+		transform: rotate(-270deg);
+	}
+
+	100%{
+		transform: rotate(-360deg);
+	}
+}
+
+@keyframes button-sign-in{
+	25%{
+		transform: rotate(70deg);
+	}	
+
+	75%{
+		transform: rotate(-5deg);
+	}	
+}

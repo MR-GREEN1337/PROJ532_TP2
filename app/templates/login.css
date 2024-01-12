@@ -1,0 +1,271 @@
+body{
+	background-color: rgb(237, 237, 237);
+}
+
+hr{
+	width:40px;
+	margin-top: 15px;
+	border: 3px solid white;
+	border-radius: 4px;
+}
+
+button{
+	height: 35px;
+	width: 130px;
+	position: relative;
+	top: 45px;
+	left: 96px;
+
+	background-color: rgb(22, 140, 250);
+	border: none;
+	border-radius: 5px;
+
+	color: white;
+	font-family: "Encode Sans SC",sans-serif;
+	z-index: 1;
+}
+
+button:hover{
+	animation: button-animation 0.7s ease 0s 1 normal;
+}
+
+#first-section{
+	height: 90vh;
+	width: 50vw;
+	border-radius: 5px;
+
+	position: absolute;
+	top: 5%;
+	left: 7%;
+
+	background-color: rgb(85, 166, 242);
+
+	display: grid;
+	grid-template-row: auto auto;
+	justify-content: center;
+	align-content: center;
+
+	box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.2) , 0 4px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.under-icon{
+	position: absolute;
+
+	height: 50px;
+	width: 50px;
+
+	top: 25px;
+	left: 10px;
+
+	animation: rotate 3s ease-out 0s infinite normal;
+}
+
+#second-section{
+	height: 80vh;
+	width: 35vw;
+
+	border-radius: 5px ;
+	position: absolute;
+	top: 10%;
+	bottom: 10%;
+	right: 7%;
+
+	background-color: white;
+	color: white;
+
+	box-shadow:0 4px 4px 0 rgba(0, 0, 0, 0.2),0 4px 20px 0 rgba(0, 0, 0, 0.2);
+}
+
+.principal-1{
+	color: white;
+	font-family: "Encode Sans SC",sans-serif;
+	font-size: 55px;
+	font-weight: bold;
+}
+
+.principal-2{
+	position: absolute;
+	top: 40px;
+	left: 70px;
+
+	color: white;
+	font-family: "Bahnschrift Light",sans-serif;
+	font-size: 20px;
+}
+
+.principal-3{
+	color: white;
+	font-size: 20px;
+	font-family: "Titillium Web",sans-serif;
+	text-align: center;
+}
+
+
+#desc-side{
+	position: absolute;
+	bottom: 12%;
+	left: 43%;
+}
+
+.description{
+	color: white;
+	font-family: "Encode Sans SC",sans-serif;
+	font-size: 15px;
+}
+
+#login-text{
+	color: rgb(22, 140, 250);
+	font-size: 35px;
+	font-weight: bold;
+	font-family: "Encode Sans SC",sans-serif;
+	position: absolute;
+	top: 20%;
+	left: 40%;
+}
+
+#login-form{
+	display: flex;
+	flex-direction: column;
+
+	position: absolute;
+	top: 30%;
+	left: 16%;
+}
+
+#remember-box{
+	display: flex;
+	flex-direction: row;
+}
+
+.remember-me{
+	color: black;
+	font-family: "Encode Sans SC",sans-serif;
+}
+
+.form-items{
+	height: 40px;
+	width: 260px;
+
+	margin-top: 0px;
+	padding-left: 69px;
+
+	font-family: "Bahnschrift",sans-serif;
+	font-size: 15px;
+
+	border: none;
+	border-radius: 4px;
+	background-color: rgb(237, 237, 237);
+}
+
+#remember-box{
+	margin-top: 10px;
+	margin-left: -5px;
+}
+
+.icons{
+	height: 20px;
+	width: 20px;
+
+	position: relative;
+	top: 30px;
+	left: 17px;
+}
+
+.icon1{
+	height: 15px;
+	width: 15px;
+	transform: rotate(-90deg);
+
+	position: relative;
+	left: 47px;
+	top: 48px;
+}
+
+.icon3{
+	height: 15px;
+	width: 15px;
+	transform: rotate(-90deg);
+
+	position: relative;
+	left: 47px;
+	top: 33px;
+}
+
+.icon2{
+	height: 20px;
+	width: 20px;
+
+	position: relative;
+	top: 15px;
+	left: 17px;
+}
+
+.checkbox1{
+	background-color: gray;
+}
+
+.container{
+	position: relative;
+
+	color: rgb(0,0,0);
+	font-family: "Encode Sans SC",sans-serif;
+}
+
+#side-bar{
+	display: grid;
+	grid-template-columns: 180px auto;
+
+	margin-top: 30px;
+}
+
+#side-bar .forgot-psd a{
+	text-decoration: none;
+	color: rgb(71, 165, 252);
+	font-family: "Encode Sans SC",sans-serif;
+	font-size: 15px;
+
+	cursor: pointer;
+	user-select: none;
+}
+
+@keyframes rotate{
+	0%{
+		transform: rotate(0deg);
+	}
+
+	25%{
+		transform: rotate(-90deg);
+	}
+
+	50%{
+		transform: rotate(-180deg);
+	}
+
+	75%{
+		transform: rotate(-270deg);
+	}
+
+	100%{
+		transform: rotate(-360deg);
+	}
+}
+
+@keyframes button-animation{
+	50%{
+		transform: rotate(5deg);
+		padding-left: 1em;
+	}
+
+	75%{
+		transform: rotate(-5deg);
+		padding-right: 1em;
+	}
+
+	100%{
+		transform: rotate(0deg);
+	}
+}
+
+
+
+
