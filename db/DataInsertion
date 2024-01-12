@@ -248,3 +248,2018 @@ INSERT INTO Answer (AnswerText, isCorrectAnswer, questID) VALUES
     ('Neil Armstrong', 1, 50),
     ('Michael Collins', 0, 50),
     ('Yuri Gagarin', 0, 50);
+
+INSERT INTO Answer (AnswerText, isCorrectAnswer, questID) VALUES
+    ('Éléphant d''Afrique', 0, 51),
+    ('Rhinocéros', 0, 51),
+    ('Girafe', 0, 51),
+    ('Colosse de Java', 1, 51),
+
+    ('Albatros royal', 1, 52),
+    ('Aigle', 0, 52),
+    ('Condor', 0, 52),
+    ('Pélican', 0, 52),
+
+    ('Vipère', 0, 53),
+    ('Cobra royal', 0, 53),
+    ('Taïpan', 1, 53),
+    ('Anaconda', 0, 53),
+
+    ('Orque', 0, 54),
+    ('Baleine à bosse', 0, 54),
+    ('Baleine bleue', 1, 54),
+    ('Dauphin', 0, 54),
+
+    ('Caméléon', 1, 55),
+    ('Iguane', 0, 55),
+    ('Gecko', 0, 55),
+    ('Agame', 0, 55),
+
+    ('Tortue de mer', 0, 56),
+    ('Tortue alligator', 0, 56),
+    ('Tortue géante des Galápagos', 1, 56),
+    ('Tortue serpentine', 0, 56),
+
+    ('Tigre', 0, 57),
+    ('Lion', 0, 57),
+    ('Ours polaire', 1, 57),
+    ('Léopard', 0, 57),
+
+    ('Lynx', 0, 58),
+    ('Guépard', 0, 58),
+    ('Jaguar', 1, 58),
+    ('Puma', 0, 58),
+
+    ('Scarabée rhinocéros', 0, 59),
+    ('Lucane cerf-volant', 0, 59),
+    ('Phasme', 1, 59),
+    ('Mante religieuse', 0, 59),
+
+    ('Varan de Komodo', 1, 60),
+    ('Crocodile du Nil', 0, 60),
+    ('Anaconda', 0, 60),
+    ('Iguane marin', 0, 60),
+
+    ('Chameau', 0, 61),
+    ('Kangourou', 0, 61),
+    ('Criquet migrateur', 1, 61),
+    ('Tortue terrestre', 0, 61),
+
+    ('Gorille', 0, 62),
+    ('Chimpanzé', 0, 62),
+    ('Orang-outan', 1, 62),
+    ('Babouin', 0, 62),
+
+    ('Hirondelle', 0, 63),
+    ('Colibri', 1, 63),
+    ('Martin-pêcheur', 0, 63),
+    ('Faucon', 0, 63),
+
+    ('Narval', 1, 64),
+    ('Morse', 0, 64),
+    ('Baleine à bosse', 0, 64),
+    ('Dauphin', 0, 64),
+
+    ('Mante orchidée', 0, 65),
+    ('Mégasoma elephas', 1, 65),
+    ('Titanus giganteus', 0, 65),
+    ('Phyllium giganteum', 0, 65),
+
+    ('Vipère', 0, 66),
+    ('Cobra royal', 0, 66),
+    ('Mamba noir', 1, 66),
+    ('Serpent corail', 0, 66),
+
+    ('Éléphant', 0, 67),
+    ('Dauphin', 0, 67),
+    ('Pieuvre', 1, 67),
+    ('Singe capucin', 0, 67),
+
+    ('Baleine à bosse', 0, 68),
+    ('Baleine bleue', 1, 68),
+    ('Rorqual commun', 0, 68),
+    ('Baleine grise', 0, 68),
+
+    ('Tigre', 1, 69),
+    ('Lion', 0, 69),
+    ('Léopard', 0, 69),
+    ('Guépard', 0, 69),
+
+    ('Albatros', 0, 70),
+    ('Moineau', 0, 70),
+    ('Martinet', 1, 70),
+    ('Chouette', 0, 70),
+
+    ('Tortue terrestre', 0, 71),
+    ('Lézard', 0, 71),
+    ('Gecko', 0, 71),
+    ('Axolotl', 1, 71),
+
+    ('Gorille', 0, 72),
+    ('Chimpanzé', 0, 72),
+    ('Orang-outan', 1, 72),
+    ('Bonobo', 0, 72),
+
+    ('Petit rhinolophe', 0, 73),
+    ('Vampire', 0, 73),
+    ('Renard volant à couronne dorée', 1, 73),
+    ('Grand murin', 0, 73),
+
+    ('Libellule', 0, 74),
+    ('Papillon Atlas', 1, 74),
+    ('Bourdon', 0, 74),
+    ('Moustique', 0, 74),
+
+    ('Poisson clown', 0, 75),
+    ('Escargot', 0, 75),
+    ('Poisson-lion', 1, 75),
+    ('Pieuvre', 0, 75),
+
+    ('Vipère', 0, 76),
+    ('Cobra royal', 0, 76),
+    ('Taïpan', 0, 76),
+    ('Mamba noir', 1, 76),
+
+    ('Grand requin blanc', 0, 77),
+    ('Orque', 0, 77),
+    ('Méduse géante', 0, 77),
+    ('Cachalot', 1, 77),
+
+    ('Chat', 0, 78),
+    ('Abeille', 1, 78),
+    ('Aigle', 0, 78),
+    ('Chauve-souris', 0, 78),
+
+    ('Méduse commune', 0, 79),
+    ('Méduse boîte', 0, 79),
+    ('Irukandji', 1, 79),
+    ('Méduse lune', 0, 79),
+
+    ('Sauterelle', 0, 80),
+    ('Phasme', 0, 80),
+    ('Cerf-volant géant', 1, 80),
+    ('Scarabée rhinocéros', 0, 80),
+
+    ('Tamarin', 0, 81),
+    ('Singe-nain', 1, 81),
+    ('Ouistiti', 0, 81),
+    ('Capucin', 0, 81),
+
+    ('Autruche', 1, 82),
+    ('Émeu', 0, 82),
+    ('Albatros', 0, 82),
+    ('Condor', 0, 82),
+
+    ('Grenouille taureau', 0, 83),
+    ('Grenouille venimeuse dorée', 0, 83),
+    ('Dendrobate bleu', 1, 83),
+    ('Rainette verte', 0, 83),
+
+    ('Salamandre', 1, 84),
+    ('Gecko', 0, 84),
+    ('Axolotl', 0, 84),
+    ('Lézard', 0, 84),
+
+    ('Tortue alligator', 0, 85),
+    ('Tortue serpentine', 0, 85),
+    ('Tortue léopard', 0, 85),
+    ('Tortue sillonnée', 1, 85),
+
+    ('Souris', 0, 86),
+    ('Rat', 0, 86),
+    ('Capybara', 1, 86),
+    ('Écureuil', 0, 86),
+
+    ('Thon', 0, 87),
+    ('Saumon', 0, 87),
+    ('Raie', 0, 87),
+    ('Requin-marteau', 1, 87),
+
+    ('Chauve-souris', 0, 88),
+    ('Écureuil volant', 0, 88),
+    ('Colugo', 1, 88),
+    ('Pangolin', 0, 88),
+
+    ('Babouin', 0, 89),
+    ('Macaque', 0, 89),
+    ('Nasique', 1, 89),
+    ('Tamarin', 0, 89),
+
+    ('Chat', 0, 90),
+    ('Hibou', 1, 90),
+    ('Faucon', 0, 90),
+    ('Chauve-souris', 0, 90),
+
+    ('Fourmi rouge', 0, 91),
+    ('Fourmi bulldog', 0, 91),
+    ('Fourmi légionnaire', 1, 91),
+    ('Fourmi argentée', 0, 91),
+
+    ('Crabe', 0, 92),
+    ('Langouste', 0, 92),
+    ('Bernard-l''ermite géant', 1, 92),
+    ('Crevette', 0, 92),
+
+    ('Anaconda', 0, 93),
+    ('Python réticulé', 1, 93),
+    ('Cobra royal', 0, 93),
+    ('Mamba noir', 0, 93),
+
+    ('Calmar géant', 1, 94),
+    ('Méduse', 0, 94),
+    ('Homard', 0, 94),
+    ('Étoile de mer', 0, 94),
+
+    ('Poisson-lune', 0, 95),
+    ('Poisson-éléphant', 0, 95),
+    ('Poisson marcheur', 1, 95),
+    ('Poisson-globe', 0, 95),
+
+    ('Léopard', 0, 96),
+    ('Puma', 0, 96),
+    ('Jaguar', 1, 96),
+    ('Tigre', 0, 96),
+
+    ('Phoque gris', 0, 97),
+    ('Phoque de Weddell', 0, 97),
+    ('Éléphant de mer', 1, 97),
+    ('Phoque barbu', 0, 97),
+
+    ('Gnou', 0, 98),
+    ('Caribou', 1, 98),
+    ('Antilope', 0, 98),
+    ('Zèbre', 0, 98),
+
+    ('Gorille', 0, 99),
+    ('Chimpanzé', 0, 99),
+    ('Orang-outan', 0, 99),
+    ('Mandrill', 1, 99),
+
+    ('Hibou grand-duc', 0, 100),
+    ('Aigle royal', 0, 100),
+    ('Condor des Andes', 1, 100),
+    ('Faucon pèlerin', 0, 100);
+
+
+INSERT INTO Answer (AnswerText, isCorrectAnswer, questID) VALUES
+    ('Wolfgang Amadeus Mozart', 0, 101),
+    ('Ludwig van Beethoven', 0, 101),
+    ('Hector Berlioz', 1, 101),
+    ('Pyotr Ilyich Tchaikovsky', 0, 101),
+
+    ('Franz Schubert', 0, 102),
+    ('Wolfgang Amadeus Mozart', 1, 102),
+    ('Ludwig van Beethoven', 0, 102),
+    ('Joseph Haydn', 0, 102),
+
+    ('Piano', 0, 103),
+    ('Violon', 1, 103),
+    ('Trompette', 0, 103),
+    ('Flûte', 0, 103),
+
+    ('Pyotr Ilyich Tchaikovsky', 1, 104),
+    ('Igor Stravinsky', 0, 104),
+    ('Sergei Prokofiev', 0, 104),
+    ('Johann Sebastian Bach', 0, 104),
+
+    ('Symphonie n°3 en mi bémol majeur, "Eroica"', 0, 105),
+    ('Symphonie n°5 en do mineur', 0, 105),
+    ('Symphonie n°6 en fa majeur, "Pastorale"', 1, 105),
+    ('Symphonie n°9 en ré mineur, "Choral"', 0, 105),
+
+    ('Georges Bizet', 1, 106),
+    ('Giuseppe Verdi', 0, 106),
+    ('Richard Wagner', 0, 106),
+    ('Wolfgang Amadeus Mozart', 0, 106),
+
+    ('Sergei Prokofiev', 0, 107),
+    ('Pyotr Ilyich Tchaikovsky', 1, 107),
+    ('Igor Stravinsky', 0, 107),
+    ('Dmitri Shostakovich', 0, 107),
+
+    ('We Are the Champions', 0, 108),
+    ('Bohemian Rhapsody', 1, 108),
+    ('Somebody to Love', 0, 108),
+    ('Don''t Stop Me Now', 0, 108),
+
+    ('Johannes Brahms', 0, 109),
+    ('Richard Wagner', 0, 109),
+    ('Franz Schubert', 0, 109),
+    ('Robert Schumann', 1, 109),
+
+    ('Andrew Lloyd Webber', 0, 110),
+    ('Stephen Sondheim', 0, 110),
+    ('Claude-Michel Schönberg', 0, 110),
+    ('Alain Boublil et Claude-Michel Schönberg', 1, 110),
+
+    ('Giacomo Puccini', 0, 111),
+    ('Gioachino Rossini', 0, 111),
+    ('Giuseppe Verdi', 1, 111),
+    ('Vincenzo Bellini', 0, 111),
+
+    ('The Beatles', 0, 112),
+    ('Led Zeppelin', 0, 112),
+    ('Pink Floyd', 1, 112),
+    ('The Rolling Stones', 0, 112),
+
+    ('Ennio Morricone', 0, 113),
+    ('John Williams', 1, 113),
+    ('Hans Zimmer', 0, 113),
+    ('Bernard Herrmann', 0, 113),
+
+    ('Rocket Man', 0, 114),
+    ('I''m Still Standing', 0, 114),
+    ('Can You Feel the Love Tonight', 1, 114),
+    ('Candle in the Wind', 0, 114),
+
+    ('Prince', 0, 115),
+    ('Michael Jackson', 1, 115),
+    ('Stevie Wonder', 0, 115),
+    ('Elvis Presley', 0, 115),
+
+    ('John Williams', 1, 116),
+    ('Hans Zimmer', 0, 116),
+    ('Ennio Morricone', 0, 116),
+    ('Howard Shore', 0, 116),
+
+    ('The Rolling Stones', 0, 117),
+    ('U2', 1, 117),
+    ('Coldplay', 0, 117),
+    ('The Beatles', 0, 117),
+
+    ('Madonna', 1, 118),
+    ('Whitney Houston', 0, 118),
+    ('Mariah Carey', 0, 118),
+    ('Beyoncé', 0, 118),
+
+    ('Wolfgang Amadeus Mozart', 1, 119),
+    ('Ludwig van Beethoven', 0, 119),
+    ('Franz Schubert', 0, 119),
+    ('Johann Sebastian Bach', 0, 119),
+
+    ('ABBA', 1, 120),
+    ('Ace of Base', 0, 120),
+    ('Roxette', 0, 120),
+    ('Europe', 0, 120),
+
+    ('Joseph Haydn', 0, 121),
+    ('Franz Schubert', 0, 121),
+    ('Wolfgang Amadeus Mozart', 0, 121),
+    ('Johann Sebastian Bach', 1, 121),
+
+    ('Franz Liszt', 0, 122),
+    ('Antonín Dvořák', 0, 122),
+    ('Bedřich Smetana', 1, 122),
+    ('Alexander Borodin', 0, 122),
+
+    ('Adele', 1, 123),
+    ('Amy Winehouse', 0, 123),
+    ('Ellie Goulding', 0, 123),
+    ('Florence Welch', 0, 123),
+
+    ('Johann Sebastian Bach', 0, 124),
+    ('Ludwig van Beethoven', 0, 124),
+    ('Georg Friedrich Haendel', 0, 124),
+    ('Antonio Vivaldi', 1, 124),
+
+    ('Giuseppe Verdi', 0, 125),
+    ('Giacomo Puccini', 1, 125),
+    ('Richard Wagner', 0, 125),
+    ('Wolfgang Amadeus Mozart', 0, 125),
+
+    ('The Rolling Stones', 0, 126),
+    ('The Beatles', 0, 126),
+    ('U2', 1, 126),
+    ('Queen', 0, 126),
+
+    ('Pyotr Ilyich Tchaikovsky', 1, 127),
+    ('Sergei Prokofiev', 0, 127),
+    ('Igor Stravinsky', 0, 127),
+    ('Ludwig van Beethoven', 0, 127),
+
+    ('Whitney Houston', 0, 128),
+    ('Aretha Franklin', 1, 128),
+    ('Diana Ross', 0, 128),
+    ('Beyoncé', 0, 128),
+
+    ('Giuseppe Verdi', 0, 129),
+    ('Richard Wagner', 0, 129),
+    ('Giacomo Puccini', 1, 129),
+    ('Georges Bizet', 0, 129),
+
+    ('We Are the Champions', 0, 130),
+    ('Bohemian Rhapsody', 1, 130),
+    ('Somebody to Love', 0, 130),
+    ("Don't Stop Me Now", 0, 130),
+
+    ('Wolfgang Amadeus Mozart', 1, 131),
+    ('Franz Schubert', 0, 131),
+    ('Ludwig van Beethoven', 0, 131),
+    ('Joseph Haydn', 0, 131),
+
+    ('Ludwig van Beethoven', 1, 132),
+    ('Wolfgang Amadeus Mozart', 0, 132),
+    ('Franz Schubert', 0, 132),
+    ('Johann Sebastian Bach', 0, 132),
+
+    ('The Rolling Stones', 0, 133),
+    ('The Beatles', 1, 133),
+    ('Led Zeppelin', 0, 133),
+    ('The Who', 0, 133),
+
+    ('John Williams', 0, 134),
+    ('Hans Zimmer', 0, 134),
+    ('Howard Shore', 1, 134),
+    ('Ennio Morricone', 0, 134),
+
+    ('Katy Perry', 0, 135),
+    ('Taylor Swift', 0, 135),
+    ('Lady Gaga', 1, 135),
+    ('Rihanna', 0, 135),
+
+    ('Richard Wagner', 1, 136),
+    ('Ludwig van Beethoven', 0, 136),
+    ('Pyotr Ilyich Tchaikovsky', 0, 136),
+    ('Johann Sebastian Bach', 0, 136),
+
+    ('Violon', 0, 137),
+    ('Orgue', 1, 137),
+    ('Piano', 0, 137),
+    ('Trompette', 0, 137),
+
+    ('Adele', 1, 138),
+    ('Amy Winehouse', 0, 138),
+    ('Ellie Goulding', 0, 138),
+    ('Florence Welch', 0, 138),
+
+    ('Franz Liszt', 1, 139),
+    ('Johannes Brahms', 0, 139),
+    ('Johann Strauss II', 0, 139),
+    ('Bedřich Smetana', 0, 139),
+
+    ('Sergei Rachmaninoff', 0, 140),
+    ('Pyotr Ilyich Tchaikovsky', 1, 140),
+    ('Igor Stravinsky', 0, 140),
+    ('Dmitri Shostakovich', 0, 140),
+
+    ('The Rolling Stones', 1, 141),
+    ('The Beatles', 0, 141),
+    ('Led Zeppelin', 0, 141),
+    ('Queen', 0, 141),
+
+    ('John Williams', 1, 142),
+    ('Hans Zimmer', 0, 142),
+    ('Howard Shore', 0, 142),
+    ('Ennio Morricone', 0, 142),
+
+    ('Piano', 1, 143),
+    ('Violon', 0, 143),
+    ('Trompette', 0, 143),
+    ('Orgue', 0, 143),
+
+    ('Bob Dylan', 0, 144),
+    ('John Lennon', 1, 144),
+    ('Paul McCartney', 0, 144),
+    ('George Harrison', 0, 144),
+
+    ('Wolfgang Amadeus Mozart', 1, 145),
+    ('Ludwig van Beethoven', 0, 145),
+    ('Franz Schubert', 0, 145),
+    ('Joseph Haydn', 0, 145),
+
+    ('Jim Morrison', 0, 146),
+    ('Jimi Hendrix', 1, 146),
+    ('Janis Joplin', 0, 146),
+    ('Bob Dylan', 0, 146),
+
+    ('Giuseppe Verdi', 0, 147),
+    ('Giacomo Puccini', 1, 147),
+    ('Richard Wagner', 0, 147),
+    ('Wolfgang Amadeus Mozart', 0, 147),
+
+    ('Whitney Houston', 0, 148),
+    ('Aretha Franklin', 1, 148),
+    ('Madonna', 0, 148),
+    ('Beyoncé', 0, 148),
+
+    ('John Williams', 1, 149),
+    ('Hans Zimmer', 0, 149),
+    ('Howard Shore', 0, 149),
+    ('Ennio Morricone', 0, 149),
+
+    ('Pink Floyd', 0, 150),
+    ('Led Zeppelin', 0, 150),
+    ('The Eagles', 0, 150),
+    ('Nirvana', 1, 150);
+
+
+INSERT INTO Answer (AnswerText, isCorrectAnswer, questID) VALUES
+    ('Zeus', 0, 151),
+    ('Dionysos', 1, 151),
+    ('Apollon', 0, 151),
+    ('Hermès', 0, 151),
+
+    ('Méduse', 0, 152),
+    ('Harpie', 1, 152),
+    ('Sphinx', 0, 152),
+    ('Sirène', 0, 152),
+
+    ('Vénus', 0, 153),
+    ('Junon', 1, 153),
+    ('Minerve', 0, 153),
+    ('Diane', 0, 153),
+
+    ('Thésée', 1, 154),
+    ('Persée', 0, 154),
+    ('Héraclès', 0, 154),
+    ('Achille', 0, 154),
+
+    ('Osiris', 0, 155),
+    ('Râ', 1, 155),
+    ('Anubis', 0, 155),
+    ('Isis', 0, 155),
+
+    ('Loup Fenrir', 0, 156),
+    ('Dragon Níðhöggr', 0, 156),
+    ('Cheval Sleipnir', 1, 156),
+    ('Aigle Hræsvelgr', 0, 156),
+
+    ('Dragon', 1, 157),
+    ('Phoenix', 0, 157),
+    ('Tortue noire', 0, 157),
+    ('Licorne qilin', 0, 157),
+
+    ('Persée', 0, 158),
+    ('Bellerophon', 1, 158),
+    ('Thésée', 0, 158),
+    ('Héraclès', 0, 158),
+
+    ('Anubis', 0, 159),
+    ('Sobek', 1, 159),
+    ('Hathor', 0, 159),
+    ('Horus', 0, 159),
+
+    ('Lakshmi', 0, 160),
+    ('Parvati', 0, 160),
+    ('Kali', 1, 160),
+    ('Saraswati', 0, 160),
+
+    ('Minotaure', 0, 161),
+    ('Chimère', 1, 161),
+    ('Harpie', 0, 161),
+    ('Sphinx', 0, 161),
+
+    ('Mercure', 1, 162),
+    ('Neptune', 0, 162),
+    ('Mars', 0, 162),
+    ('Bacchus', 0, 162),
+
+    ('Loki', 0, 163),
+    ('Heimdall', 1, 163),
+    ('Thor', 0, 163),
+    ('Odin', 0, 163),
+
+    ('Kitsune', 0, 164),
+    ('Kappa', 0, 164),
+    ('Tengu', 0, 164),
+    ('Koi-no-katachi', 1, 164),
+
+    ('Cronos', 0, 165),
+    ('Atlas', 1, 165),
+    ('Prométhée', 0, 165),
+    ('Épiméthée', 0, 165),
+
+    ('Wendigo', 0, 166),
+    ('Sasquatch', 0, 166),
+    ('Kokopelli', 0, 166),
+    ('Cernunnos', 1, 166),
+
+    ('Râ', 0, 167),
+    ('Anubis', 1, 167),
+    ('Horus', 0, 167),
+    ('Osiris', 0, 167),
+
+    ('Dragon', 0, 168),
+    ('Qilin', 0, 168),
+    ('Fenghuang', 0, 168),
+    ('Pixiu', 1, 168),
+
+    ('Athéna', 0, 169),
+    ('Aphrodite', 1, 169),
+    ('Héra', 0, 169),
+    ('Déméter', 0, 169),
+
+    ('Manitou', 0, 170),
+    ('Quetzalcoatl', 1, 170),
+    ('Chaneques', 0, 170),
+    ('Coyote', 0, 170),
+
+    ('Méduse', 1, 171),
+    ('Harpie', 0, 171),
+    ('Sphinx', 0, 171),
+    ('Chimère', 0, 171),
+
+    ('Jupiter', 1, 172),
+    ('Mars', 0, 172),
+    ('Mercure', 0, 172),
+    ('Apollon', 0, 172),
+
+    ('Kitsune', 1, 173),
+    ('Tengu', 0, 173),
+    ('Kappa', 0, 173),
+    ('Oni', 0, 173),
+
+    ('Fenrir', 1, 174),
+    ('Sköll', 0, 174),
+    ('Hati', 0, 174),
+    ('Garmr', 0, 174),
+
+    ('Banshee', 0, 175),
+    ('Leprechaun', 0, 175),
+    ('Harpie', 0, 175),
+    ('Bean Sidhe', 1, 175),
+
+    ('Hadès', 1, 176),
+    ('Poséidon', 0, 176),
+    ('Arès', 0, 176),
+    ('Hermès', 0, 176),
+
+    ('Anubis', 0, 177),
+    ('Hathor', 0, 177),
+    ('Râ', 1, 177),
+    ('Osiris', 0, 177),
+
+    ('Vesta', 0, 178),
+    ('Diane', 1, 178),
+    ('Junon', 0, 178),
+    ('Minerve', 0, 178),
+
+    ('Long', 0, 179),
+    ('Pixiu', 0, 179),
+    ('Ao Guang', 0, 179),
+    ('Kui', 1, 179),
+
+    ('Centaure', 0, 180),
+    ('Faune', 1, 180),
+    ('Minotaure', 0, 180),
+    ('Satyre', 0, 180),
+
+    ('Thor', 0, 181),
+    ('Tyr', 0, 181),
+    ('Odin', 1, 181),
+    ('Baldr', 0, 181),
+
+    ('Héraclès', 0, 182),
+    ('Prométhée', 1, 182),
+    ('Persée', 0, 182),
+    ('Thésée', 0, 182),
+
+    ('Sphinx', 0, 183),
+    ('Anubis', 0, 183),
+    ('Bastet', 1, 183),
+    ('Horus', 0, 183),
+
+    ('Neptune', 1, 184),
+    ('Jupiter', 0, 184),
+    ('Mars', 0, 184),
+    ('Apollon', 0, 184),
+
+    ('Coyote', 0, 185),
+    ('Wendigo', 0, 185),
+    ('Thunderbird', 1, 185),
+    ('Manitou', 0, 185),
+
+    ('Harpies', 0, 186),
+    ('Sphinxes', 0, 186),
+    ('Gorgones', 0, 186),
+    ('Érinyes', 1, 186),
+
+    ('Bastet', 0, 187),
+    ('Sekhmet', 1, 187),
+    ('Hathor', 0, 187),
+    ('Isis', 0, 187),
+
+    ('Vishnu', 0, 188),
+    ('Shiva', 0, 188),
+    ('Ganesha', 1, 188),
+    ('Brahma', 0, 188),
+
+    ('Clio', 0, 189),
+    ('Thalie', 0, 189),
+    ('Calliope', 1, 189),
+    ('Érato', 0, 189),
+
+    ('Qilin', 0, 190),
+    ('Fenghuang', 0, 190),
+    ('Longgui', 0, 190),
+    ('Xuanwu', 1, 190),
+
+    ('Ra', 0, 191),
+    ('Osiris', 1, 191),
+    ('Anubis', 0, 191),
+    ('Hathor', 0, 191),
+
+    ('Gaïa', 1, 192),
+    ('Héra', 0, 192),
+    ('Déméter', 0, 192),
+    ('Perséphone', 0, 192),
+
+    ('Aeneas', 0, 193),
+    ('Remus', 0, 193),
+    ('Romulus', 1, 193),
+    ('Julius Caesar', 0, 193),
+
+    ('Kappa', 0, 194),
+    ('Tengu', 0, 194),
+    ('Nue', 0, 194),
+    ('Ryu', 1, 194),
+
+    ('Méduse', 1, 195),
+    ('Sphinx', 0, 195),
+    ('Harpie', 0, 195),
+    ('Python', 1, 195),
+
+    ('Freyr', 1, 196),
+    ('Odin', 0, 196),
+    ('Thor', 0, 196),
+    ('Loki', 0, 196),
+
+    ('Vénus', 1, 197),
+    ('Junon', 0, 197),
+    ('Minerve', 0, 197),
+    ('Diane', 0, 197),
+
+    ('Sphinx', 0, 198),
+    ('Ammit', 1, 198),
+    ('Manticore', 0, 198),
+    ('Chimère', 0, 198),
+
+    ('Shiva', 0, 199),
+    ('Brahma', 1, 199),
+    ('Vishnu', 0, 199),
+    ('Krishna', 0, 199),
+
+    ('Centaure', 1, 200),
+    ('Minotaure', 0, 200),
+    ('Satyre', 0, 200),
+    ('Harpie', 0, 200);
+
+
+INSERT INTO Answer (AnswerText, isCorrectAnswer, questID) VALUES
+    ('15', 0, 201),
+    ('20', 0, 201),
+    ('24', 0, 201),
+    ('27', 1, 201),
+
+    ('Arabe', 1, 202),
+    ('Persan', 0, 202),
+    ('Turc', 0, 202),
+    ('Berbère', 0, 202),
+
+    ('2,000', 0, 203),
+    ('4,000', 0, 203),
+    ('7,000', 1, 203),
+    ('10,000', 0, 203),
+
+    ('Chinois', 0, 204),
+    ('Coréen', 0, 204),
+    ('Japonais', 1, 204),
+    ('Vietnamien', 0, 204),
+
+    ('4', 0, 205),
+    ('6', 0, 205),
+    ('9', 0, 205),
+    ('6', 1, 205),
+
+    ('Anglais', 0, 206),
+    ('Espagnol', 0, 206),
+    ('Mandarin', 1, 206),
+    ('Hindi', 0, 206),
+
+    ('15', 0, 207),
+    ('22', 0, 207),
+    ('30', 0, 207),
+    ('22', 1, 207),
+
+    ('Espagnol', 0, 208),
+    ('Portugais', 1, 208),
+    ('Italien', 0, 208),
+    ('Néerlandais', 0, 208),
+
+    ('26', 0, 209),
+    ('29', 0, 209),
+    ('33', 0, 209),
+    ('33', 1, 209),
+
+    ('Yoruba', 0, 210),
+    ('Igbo', 0, 210),
+    ('Haoussa', 0, 210),
+    ('Anglais', 1, 210),
+
+    ('Flamand', 0, 211),
+    ('Allemand', 0, 211),
+    ('Néerlandais', 0, 211),
+    ('Trois langues sont officielles : néerlandais, français, allemand', 1, 211),
+
+    ('9', 0, 212),
+    ('11', 0, 212),
+    ('13', 0, 212),
+    ('11', 1, 212),
+
+    ('Swahili', 0, 213),
+    ('Amharique', 1, 213),
+    ('Oromo', 0, 213),
+    ('Somali', 0, 213),
+
+    ('Anglais', 0, 214),
+    ('Français', 1, 214),
+    ('Bilingue (anglais et français)', 0, 214),
+    ('Autochtone', 0, 214),
+
+    ('2', 0, 215),
+    ('3', 1, 215),
+    ('4', 0, 215),
+    ('5', 0, 215),
+
+    ('Français', 0, 216),
+    ('Espagnol', 0, 216),
+    ('Mandarin', 0, 216),
+    ('Anglais', 1, 216),
+
+    ('Malay', 0, 217),
+    ('Tamil', 0, 217),
+    ('Chinois mandarin', 0, 217),
+    ('Anglais', 1, 217),
+
+    ('1', 0, 218),
+    ('2', 0, 218),
+    ('3', 1, 218),
+    ('4', 0, 218),
+
+    ('Arabe', 0, 219),
+    ('Persan (Farsi)', 1, 219),
+    ('Kurde', 0, 219),
+    ('Turc', 0, 219),
+
+    ('50', 0, 220),
+    ('100', 0, 220),
+    ('150', 0, 220),
+    ('Plus de 150', 1, 220),
+
+    ('Indonésien', 0, 221),
+    ('Malais', 1, 221),
+    ('Thaï', 0, 221),
+    ('Tamoul', 0, 221),
+
+    ('100', 0, 222),
+    ('300', 0, 222),
+    ('500', 0, 222),
+    ('Plus de 700', 1, 222),
+
+    ('Vietnamien', 0, 223),
+    ('Khmer', 0, 223),
+    ('Birman', 0, 223),
+    ('Thaï', 1, 223),
+
+    ('2', 0, 224),
+    ('4', 0, 224),
+    ('5', 0, 224),
+    ('4', 1, 224),
+
+    ('Français', 0, 225),
+    ('Allemand', 0, 225),
+    ('Luxembourgeois', 1, 225),
+    ('Néerlandais', 0, 225),
+
+    ('1', 0, 226),
+    ('2', 0, 226),
+    ('3', 1, 226),
+    ('4', 0, 226),
+
+    ('Coréen', 1, 227),
+    ('Mandarin', 0, 227),
+    ('Japonais', 0, 227),
+    ('Vietnamien', 0, 227),
+
+    ('15', 0, 228),
+    ('20', 0, 228),
+    ('24', 0, 228),
+    ('24', 1, 228),
+
+    ('Arabe', 0, 229),
+    ('Berbère', 0, 229),
+    ('Français', 0, 229),
+    ('Arabe et Berbère sont toutes deux officielles', 1, 229),
+
+    ('15', 0, 230),
+    ('22', 0, 230),
+    ('30', 0, 230),
+    ('22', 1, 230),
+
+    ('Turc', 1, 231),
+    ('Kurde', 0, 231),
+    ('Arabe', 0, 231),
+    ('Persan', 0, 231),
+
+    ('1', 0, 232),
+    ('2', 0, 232),
+    ('3', 1, 232),
+    ('4', 0, 232),
+
+    ('Persan (Dari)', 0, 233),
+    ('Pachto (Pashto)', 1, 233),
+    ('Ouzbek', 0, 233),
+    ('Turkmène', 0, 233),
+
+    ('1', 0, 234),
+    ('2', 0, 234),
+    ('3', 1, 234),
+    ('4', 0, 234),
+
+    ('Portugais', 1, 235),
+    ('Angolais', 0, 235),
+    ('Swahili', 0, 235),
+    ('Zoulou', 0, 235),
+
+    ('1', 0, 236),
+    ('2', 0, 236),
+    ('3', 1, 236),
+    ('4', 0, 236),
+
+    ('Arabe', 1, 237),
+    ('Français', 0, 237),
+    ('Arménien', 0, 237),
+    ('Hébreu', 0, 237),
+
+    ('1', 0, 238),
+    ('2', 0, 238),
+    ('3', 1, 238),
+    ('4', 0, 238),
+
+    ('Espagnol', 0, 239),
+    ('Galicien', 0, 239),
+    ('Portugais', 1, 239),
+    ('Catalan', 0, 239),
+
+    ('2', 0, 240),
+    ('3', 1, 240),
+    ('4', 0, 240),
+    ('5', 0, 240),
+
+    ('Bengali', 0, 241),
+    ('Pachto (Pashto)', 0, 241),
+    ('Ourdou', 1, 241),
+    ('Pendjabi', 0, 241),
+
+    ('1', 0, 242),
+    ('2', 1, 242),
+    ('3', 0, 242),
+    ('4', 0, 242),
+
+    ('Arabe', 1, 243),
+    ('Berbère', 0, 243),
+    ('Français', 0, 243),
+    ('Arabe et Berbère sont toutes deux officielles', 0, 243),
+
+    ('1', 0, 244),
+    ('2', 0, 244),
+    ('3', 1, 244),
+    ('4', 0, 244),
+
+    ('Grec', 1, 245),
+    ('Latin', 0, 245),
+    ('Ottomane', 0, 245),
+    ('Arabe', 0, 245),
+
+    ('3', 0, 246),
+    ('5', 0, 246),
+    ('7', 0, 246),
+    ('3', 1, 246),
+
+    ('Anglais', 1, 247),
+    ('Créole jamaïcain', 0, 247),
+    ('Espagnol', 0, 247),
+    ('Hindi', 0, 247),
+
+    ('8', 0, 248),
+    ('11', 0, 248),
+    ('13', 0, 248),
+    ('11', 1, 248),
+
+    ('Hongrois', 1, 249),
+    ('Roumain', 0, 249),
+    ('Slovaque', 0, 249),
+    ('Allemand', 0, 249),
+
+    ('2', 0, 250),
+    ('3', 1, 250),
+    ('4', 0, 250),
+    ('5', 0, 250);
+
+
+INSERT INTO Answer (AnswerText, isCorrectAnswer, questID) VALUES
+    ('Roger Federer', 0, 251),
+    ('Rafael Nadal', 0, 251),
+    ('Novak Djokovic', 1, 251),
+    ('Pete Sampras', 0, 251),
+
+    ('Brésil', 1, 252),
+    ('Italie', 0, 252),
+    ('Allemagne', 0, 252),
+    ('France', 0, 252),
+
+    ('Muhammad Ali', 1, 253),
+    ('Mike Tyson', 0, 253),
+    ('Floyd Mayweather', 0, 253),
+    ('Sugar Ray Leonard', 0, 253),
+
+    ('1886', 0, 254),
+    ('1896', 1, 254),
+    ('1906', 0, 254),
+    ('1916', 0, 254),
+
+    ('Allemagne', 0, 255),
+    ('Brésil', 1, 255),
+    ('Argentine', 0, 255),
+    ('Italie', 0, 255),
+
+    ('Michael Jordan', 0, 256),
+    ('LeBron James', 1, 256),
+    ('Kobe Bryant', 0, 256),
+    ('Magic Johnson', 0, 256),
+
+    ('Russie', 0, 257),
+    ('Chine', 1, 257),
+    ('États-Unis', 0, 257),
+    ('Brésil', 0, 257),
+
+    ('Golf', 1, 258),
+    ('Tennis', 0, 258),
+    ('Course à pied', 0, 258),
+    ('Saut en hauteur', 0, 258),
+
+    ('Eliud Kipchoge', 0, 259),
+    ('Dennis Kipruto Kimetto', 0, 259),
+    ('Eliud Kipchoge', 1, 259),
+    ('Haile Gebrselassie', 0, 259),
+
+    ('Golf', 0, 260),
+    ('Cricket', 1, 260),
+    ('Football', 0, 260),
+    ('Basketball', 0, 260),
+
+    ('Babe Ruth', 0, 261),
+    ('Hank Aaron', 0, 261),
+    ('Barry Bonds', 1, 261),
+    ('Mickey Mantle', 0, 261),
+
+    ('Larry Bird', 0, 262),
+    ('Michael Jordan', 1, 262),
+    ('Magic Johnson', 0, 262),
+    ('Charles Barkley', 0, 262),
+
+    ('Allemagne', 0, 263),
+    ('Brésil', 0, 263),
+    ('France', 1, 263),
+    ('Argentine', 0, 263),
+
+    ('Lionel Messi', 0, 264),
+    ('Cristiano Ronaldo', 1, 264),
+    ('Zinedine Zidane', 0, 264),
+    ('Michel Platini', 0, 264),
+
+    ('Michael Phelps', 0, 265),
+    ('Cesar Cielo', 1, 265),
+    ('Alain Bernard', 0, 265),
+    ('César Cielo', 0, 265),
+
+    ('Vancouver', 0, 266),
+    ('Sotchi', 1, 266),
+    ('Pyeongchang', 0, 266),
+    ('Turin', 0, 266),
+
+    ('US Open', 0, 267),
+    ('Roland-Garros', 0, 267),
+    ('Wimbledon', 1, 267),
+    ('Open d'Australie', 0, 267),
+
+    ('Lionel Messi', 0, 268),
+    ('Neymar', 0, 268),
+    ('Cristiano Ronaldo', 1, 268),
+    ('Kylian Mbappé', 0, 268),
+
+    ('Renaud Lavillenie', 0, 269),
+    ('Sergey Bubka', 1, 269),
+    ('Thiago Braz', 0, 269),
+    ('Armand Duplantis', 0, 269),
+
+    ('Tennis', 0, 270),
+    ('Bowling', 1, 270),
+    ('Cricket', 0, 270),
+    ('Baseball', 0, 270),
+
+    ('FC Barcelone', 0, 271),
+    ('Real Madrid', 1, 271),
+    ('Bayern Munich', 0, 271),
+    ('AC Milan', 0, 271),
+
+    ('Javier Sotomayor', 0, 272),
+    ('Mutaz Essa Barshim', 0, 272),
+    ('Hicham El Guerrouj', 0, 272),
+    ('Javier Sotomayor', 1, 272),
+
+    ('Serena Williams', 1, 273),
+    ('Martina Navratilova', 0, 273),
+    ('Steffi Graf', 0, 273),
+    ('Chris Evert', 0, 273),
+
+    ('Ricky Ponting', 0, 274),
+    ('Brian Lara', 0, 274),
+    ('Sachin Tendulkar', 1, 274),
+    ('Jacques Kallis', 0, 274),
+
+    ('1886', 0, 275),
+    ('1896', 1, 275),
+    ('1906', 0, 275),
+    ('1916', 0, 275),
+
+    ('Tiger Woods', 0, 276),
+    ('Jack Nicklaus', 1, 276),
+    ('Phil Mickelson', 0, 276),
+    ('Rory McIlroy', 0, 276),
+
+    ('Neymar', 0, 277),
+    ('Lionel Messi', 1, 277),
+    ('Cristiano Ronaldo', 0, 277),
+    ('Kylian Mbappé', 0, 277),
+
+    ('Nouvelle-Zélande', 0, 278),
+    ('Australie', 0, 278),
+    ('Afrique du Sud', 1, 278),
+    ('Angleterre', 0, 278),
+
+    ('Tennis', 1, 279),
+    ('Golf', 0, 279),
+    ('Baseball', 0, 279),
+    ('Cricket', 0, 279),
+
+    ('Usain Bolt', 0, 280),
+    ('Tyson Gay', 0, 280),
+    ('Justin Gatlin', 0, 280),
+    ('Usain Bolt', 1, 280),
+
+    ('Nouvelle-Zélande', 0, 281),
+    ('Australie', 0, 281),
+    ('Afrique du Sud', 1, 281),
+    ('Angleterre', 0, 281),
+
+    ('32 km', 0, 282),
+    ('40 km', 0, 282),
+    ('42.195 km', 1, 282),
+    ('45 km', 0, 282),
+
+    ('Shaquille O''Neal', 0, 283),
+    ('David Robinson', 1, 283),
+    ('Tim Duncan', 0, 283),
+    ('Karl Malone', 0, 283),
+
+    ('1924', 1, 284),
+    ('1932', 0, 284),
+    ('1940', 0, 284),
+    ('1956', 0, 284),
+
+    ('Michael Phelps', 0, 285),
+    ('Usain Bolt', 0, 285),
+    ('Carl Lewis', 0, 285),
+    ('Michael Phelps', 1, 285),
+
+    ('Ronaldo Nazário', 1, 286),
+    ('Cristiano Ronaldo', 0, 286),
+    ('Lionel Messi', 0, 286),
+    ('Ronaldinho', 0, 286),
+
+    ('Baseball', 0, 287),
+    ('Basketball', 1, 287),
+    ('Tennis', 0, 287),
+    ('Golf', 0, 287),
+
+    ('États-Unis', 0, 288),
+    ('Chine', 0, 288),
+    ('Russie', 0, 288),
+    ('États-Unis', 1, 288),
+
+    ('Tiger Woods', 0, 289),
+    ('Arnold Palmer', 0, 289),
+    ('Jack Nicklaus', 1, 289),
+    ('Phil Mickelson', 0, 289),
+
+    ('FC Barcelone', 0, 290),
+    ('Real Madrid', 1, 290),
+    ('Bayern Munich', 0, 290),
+    ('AC Milan', 0, 290),
+
+    ('Bjørn Daehlie', 0, 291),
+    ('Ole Einar Bjørndalen', 0, 291),
+    ('Marit Bjørgen', 1, 291),
+    ('Marit Bjørgen', 0, 291),
+
+    ('Ski alpin', 0, 292),
+    ('Snowboard', 1, 292),
+    ('Patinage artistique', 0, 292),
+    ('Bobsleigh', 0, 292),
+
+    ('Lionel Messi', 0, 293),
+    ('Cristiano Ronaldo', 0, 293),
+    ('Robert Lewandowski', 1, 293),
+    ('Neymar', 0, 293),
+
+    ('80 minutes', 0, 294),
+    ('90 minutes', 1, 294),
+    ('100 minutes', 0, 294),
+    ('120 minutes', 0, 294),
+
+    ('Inde', 0, 295),
+    ('Australie', 0, 295),
+    ('Angleterre', 1, 295),
+    ('Pakistan', 0, 295),
+
+    ('Serena Williams', 0, 296),
+    ('Margaret Court', 0, 296),
+    ('Steffi Graf', 0, 296),
+    ('Margaret Court', 1, 296),
+
+    ('Uruguay', 1, 297),
+    ('Argentine', 0, 297),
+    ('Brésil', 0, 297),
+    ('Allemagne', 0, 297),
+
+    ('Tir à la carabine', 0, 298),
+    ('Tir à l''arc', 1, 298),
+    ('Tir au pigeon d''argile', 0, 298),
+    ('Tir sportif', 0, 298),
+
+    ('Babe Ruth', 0, 299),
+    ('Mark McGwire', 0, 299),
+    ('Sammy Sosa', 0, 299),
+    ('Mark McGwire', 1, 299),
+
+    ('Lionel Messi', 1, 300),
+    ('Cristiano Ronaldo', 0, 300),
+    ('Neymar', 0, 300),
+    ('Kylian Mbappé', 0, 300);
+
+
+INSERT INTO Answer (AnswerText, isCorrectAnswer, questID) VALUES
+    ('Han Wudi', 0, 301),
+    ('Qin Shi Huang', 1, 301),
+    ('Tang Taizong', 0, 301),
+    ('Wu Zetian', 0, 301),
+
+    ('Bataille de la Somme', 0, 302),
+    ('Bataille de Verdun', 0, 302),
+    ('Bataille de la Marne', 0, 302),
+    ('Bataille de la Somme', 1, 302),
+
+    ('Richard Cœur de Lion', 0, 303),
+    ('Jean sans Terre', 1, 303),
+    ('Henri II', 0, 303),
+    ('Édouard III', 0, 303),
+
+    ('Vasco da Gama', 0, 304),
+    ('Ferdinand Magellan', 0, 304),
+    ('Barthélemy Dias', 1, 304),
+    ('Hernán Cortés', 0, 304),
+
+    ('Mésopotamie', 0, 305),
+    ('Égypte ancienne', 1, 305),
+    ('Grèce antique', 0, 305),
+    ('Indus Valley', 0, 305),
+
+    ('Inégalités économiques et sociales', 0, 306),
+    ('Influence des philosophes des Lumières', 0, 306),
+    ('Mauvaise gestion financière du roi Louis XVI', 0, 306),
+    ('Toutes les réponses sont correctes', 1, 306),
+
+    ('Han', 0, 307),
+    ('Qin', 1, 307),
+    ('Tang', 0, 307),
+    ('Ming', 0, 307),
+
+    ('Assassinat de l\'archiduc François-Ferdinand', 0, 308),
+    ('Invasion de la Pologne par l\'Allemagne', 0, 308),
+    ('Bombardement de Pearl Harbor', 0, 308),
+    ('Assassinat de l\'archiduc François-Ferdinand', 1, 308),
+
+    ('Auguste', 0, 309),
+    ('Néron', 0, 309),
+    ('Constantin', 1, 309),
+    ('Caligula', 0, 309),
+
+    ('Vladimir Poutine', 0, 310),
+    ('Joseph Staline', 1, 310),
+    ('Lénine', 0, 310),
+    ('Mikhaïl Gorbatchev', 0, 310),
+
+    ('Attaque de Pearl Harbor', 0, 311),
+    ('Bombardement de Fort Sumter', 1, 311),
+    ('Bataille de Gettysburg', 0, 311),
+    ('Proclamation d\'émancipation', 0, 311),
+
+    ('Empire romain', 0, 312),
+    ('Empire ottoman', 1, 312),
+    ('Empire perse', 0, 312),
+    ('Empire mongol', 0, 312),
+
+    ('Napoléon Bonaparte', 0, 313),
+    ('Louis XIV', 0, 313),
+    ('Marquis de Lafayette', 0, 313),
+    ('Rochambeau', 1, 313),
+
+    ('Aztèques', 0, 314),
+    ('Incas', 1, 314),
+    ('Mayas', 0, 314),
+    ('Olmèques', 0, 314),
+
+    ('Chute du mur de Berlin', 1, 315),
+    ('Dissolution de l\'URSS', 0, 315),
+    ('Accords d\'Helsinki', 0, 315),
+    ('Crise des missiles cubains', 0, 315),
+
+    ('Néfertiti', 0, 316),
+    ('Hatchepsout', 0, 316),
+    ('Cléopâtre', 1, 316),
+    ('Tiyi', 0, 316),
+
+    ('Marco Polo', 0, 317),
+    ('Vasco da Gama', 0, 317),
+    ('Christophe Colomb', 1, 317),
+    ('Hernán Cortés', 0, 317),
+
+    ('Invention de la machine à vapeur', 0, 318),
+    ('Découverte du charbon', 0, 318),
+    ('Lancement du chemin de fer', 0, 318),
+    ('Invention du métier à tisser mécanique', 1, 318),
+
+    ('Deng Xiaoping', 0, 319),
+    ('Sun Yat-sen', 0, 319),
+    ('Mao Zedong', 1, 319),
+    ('Chiang Kai-shek', 0, 319),
+
+    ('Empire mongol', 1, 320),
+    ('Empire ottoman', 0, 320),
+    ('Empire romain', 0, 320),
+    ('Empire perse', 0, 320),
+
+    ('L\'assassinat de Louis XVI', 0, 321),
+    ('La prise de la Bastille', 0, 321),
+    ('La Terreur', 0, 321),
+    ('L\'assassinat de Louis XVI', 1, 321),
+
+    ('Dispute territoriale', 0, 322),
+    ('Succession au trône de France', 0, 322),
+    ('Conflits religieux', 0, 322),
+    ('Succession au trône de France', 1, 322),
+
+    ('Bataille de Leipzig', 0, 323),
+    ('Bataille de Waterloo', 1, 323),
+    ('Bataille d\'Austerlitz', 0, 323),
+    ('Bataille de Jena-Auerstedt', 0, 323),
+
+    ('Joseph Staline', 0, 324),
+    ('Lénine', 1, 324),
+    ('Trotsky', 0, 324),
+    ('Nicolas II', 0, 324),
+
+    ('Attaque de Pearl Harbor', 0, 325),
+    ('Guerre d\'Indochine', 1, 325),
+    ('Partition du Vietnam', 0, 325),
+    ('Guerre d\'Indochine', 0, 325),
+
+    ('Auguste', 0, 326),
+    ('Caligula', 0, 326),
+    ('Néron', 1, 326),
+    ('Trajan', 0, 326),
+
+    ('Traité de Versailles', 1, 327),
+    ('Traité de Trianon', 0, 327),
+    ('Traité de Brest-Litovsk', 0, 327),
+    ('Traité de Saint-Germain-en-Laye', 0, 327),
+
+    ('Rome', 0, 328),
+    ('Athènes', 0, 328),
+    ('Constantinople', 1, 328),
+    ('Alexandrie', 0, 328),
+
+    ('Assaut du Palais d\'Hiver', 0, 329),
+    ('Assassinat du tsar Nicolas II', 0, 329),
+    ('Mutinerie du cuirassé Potemkine', 0, 329),
+    ('Assaut du Palais d\'Hiver', 1, 329),
+
+    ('Adolf Hitler', 1, 330),
+    ('Joseph Goebbels', 0, 330),
+    ('Hermann Göring', 0, 330),
+    ('Heinrich Himmler', 0, 330),
+
+    ('Constantin', 1, 331),
+    ('Dioclétien', 0, 331),
+    ('Marc Aurèle', 0, 331),
+    ('Néron', 0, 331),
+
+    ('Bataille de Lexington et Concord', 0, 332),
+    ('Bataille de Saratoga', 0, 332),
+    ('Bataille de Yorktown', 1, 332),
+    ('Bataille de Bunker Hill', 0, 332),
+
+    ('Invention de la machine à vapeur', 1, 333),
+    ('Découverte de l\'électricité', 0, 333),
+    ('Lancement du chemin de fer', 0, 333),
+    ('Invention du métier à tisser mécanique', 0, 333),
+
+    ('Élisabeth I', 0, 334),
+    ('Marie Stuart', 0, 334),
+    ('Victoria', 0, 334),
+    ('Élisabeth I', 1, 334),
+
+    ('Lénine', 0, 335),
+    ('Staline', 0, 335),
+    ('Gorbatchev', 1, 335),
+    ('Brejnev', 0, 335),
+
+    ('Thomas Hobbes', 0, 336),
+    ('John Locke', 0, 336),
+    ('Niccolò Machiavel', 1, 336),
+    ('Jean-Jacques Rousseau', 0, 336),
+
+    ('Bataille de Leipzig', 1, 337),
+    ('Bataille de Waterloo', 0, 337),
+    ('Bataille d\'Austerlitz', 0, 337),
+    ('Bataille de Jena-Auerstedt', 0, 337),
+
+    ('Henri II', 0, 338),
+    ('Richard Cœur de Lion', 0, 338),
+    ('Jean sans Terre', 1, 338),
+    ('Édouard III', 0, 338),
+
+    ('Mésopotamie', 0, 339),
+    ('Égypte ancienne', 0, 339),
+    ('Sumérie', 0, 339),
+    ('Babylone', 1, 339),
+
+    ('Prise de la Bastille', 0, 340),
+    ('Assassinat de Louis XVI', 0, 340),
+    ('Révolte des sans-culottes', 0, 340),
+    ('Prise de la Bastille', 1, 340),
+
+    ('Nikita Khrouchtchev', 1, 341),
+    ('Lénine', 0, 341),
+    ('Joseph Staline', 0, 341),
+    ('Mikhaïl Gorbatchev', 0, 341),
+
+    ('Bataille de Lexington et Concord', 1, 342),
+    ('Bataille de Saratoga', 0, 342),
+    ('Bataille de Yorktown', 0, 342),
+    ('Bataille de Bunker Hill', 0, 342),
+
+    ('Thomas Jefferson', 0, 343),
+    ('George Washington', 1, 343),
+    ('John Adams', 0, 343),
+    ('James Madison', 0, 343),
+
+    ('Assassinat du tsar Nicolas II', 0, 344),
+    ('Mutinerie du cuirassé Potemkine', 1, 344),
+    ('Prise du Palais d\'Hiver', 0, 344),
+    ('Mutinerie du cuirassé Potemkine', 0, 344),
+
+    ('Auguste', 0, 345),
+    ('Caligula', 0, 345),
+    ('Néron', 1, 345),
+    ('Trajan', 0, 345),
+
+    ('Joseph Staline', 1, 346),
+    ('Vladimir Lénine', 0, 346),
+    ('Mikhaïl Gorbatchev', 0, 346),
+    ('Nikita Khrouchtchev', 0, 346),
+
+    ('La Déclaration des Droits de l\'Homme et du Citoyen', 0, 347),
+    ('La prise de la Bastille', 1, 347),
+    ('L\'exécution de Louis XVI', 0, 347),
+    ('La Terreur', 0, 347),
+
+    ('Hernán Cortés', 0, 348),
+    ('Magellan', 1, 348),
+    ('Vasco de Gama', 0, 348),
+    ('Christophe Colomb', 0, 348),
+
+    ('Bataille de Marathon', 0, 349),
+    ('Bataille de Gaugamèles', 0, 349),
+    ('Bataille des Thermopyles', 1, 349),
+    ('Bataille de Salamine', 0, 349),
+
+    ('Ramsès II', 0, 350),
+    ('Khéops', 1, 350),
+    ('Toutânkhamon', 0, 350),
+    ('Hatchepsout', 0, 350);
+
+
+INSERT INTO Answer (AnswerText, isCorrectAnswer, questID) VALUES
+    ('Maseru', 1, 351),
+    ('Nairobi', 0, 351),
+    ('Luanda', 0, 351),
+    ('Asunción', 0, 351),
+
+    ('Thimphou', 1, 352),
+    ('Tachkent', 0, 352),
+    ('Katmandou', 0, 352),
+    ('Colombo', 0, 352),
+
+    ('Oslo', 1, 353),
+    ('Hanoï', 0, 353),
+    ('Panama', 0, 353),
+    ('Vilnius', 0, 353),
+
+    ('Paramaribo', 1, 354),
+    ('Niamey', 0, 354),
+    ('Port Moresby', 0, 354),
+    ('Tbilissi', 0, 354),
+
+    ('Chișinău', 1, 355),
+    ('Managua', 0, 355),
+    ('Georgetown', 0, 355),
+    ('Libreville', 0, 355),
+
+    ('Oulan-Bator', 1, 356),
+    ('Tegucigalpa', 0, 356),
+    ('Dodoma', 0, 356),
+    ('Oslo', 0, 356),
+
+    ('Port Moresby', 1, 357),
+    ('Astana', 0, 357),
+    ('Banjul', 0, 357),
+    ('Bissau', 0, 357),
+
+    ('Gaborone', 1, 358),
+    ('Conakry', 0, 358),
+    ('Manille', 0, 358),
+    ('Bamako', 0, 358),
+
+    ('Erevan', 1, 359),
+    ('San Salvador', 0, 359),
+    ('Luanda', 0, 359),
+    ('Oslo', 0, 359),
+
+    ('Riga', 1, 360),
+    ('Yaoundé', 0, 360),
+    ('Oslo', 0, 360),
+    ('Antananarivo', 0, 360),
+
+    ('Achgabat', 1, 361),
+    ('Port Moresby', 0, 361),
+    ('Accra', 0, 361),
+    ('Bucarest', 0, 361),
+
+    ('San José', 1, 362),
+    ('Porto-Novo', 0, 362),
+    ('Tbilissi', 0, 362),
+    ('Oslo', 0, 362),
+
+    ('Kampala', 1, 363),
+    ('Asunción', 0, 363),
+    ('Oslo', 0, 363),
+    ('Mogadiscio', 0, 363),
+
+    ('Beyrouth', 1, 364),
+    ('Vaduz', 0, 364),
+    ('Lilongwe', 0, 364),
+    ('Oslo', 0, 364),
+
+    ('Freetown', 1, 365),
+    ('Belgrade', 0, 365),
+    ('Oslo', 0, 365),
+    ('Dodoma', 0, 365),
+
+    ('Doha', 1, 366),
+    ('Accra', 0, 366),
+    ('Managua', 0, 366),
+    ('Oslo', 0, 366),
+
+    ('Libreville', 1, 367),
+    ('Lomé', 0, 367),
+    ('Oslo', 0, 367),
+    ('Budapest', 0, 367),
+
+    ('Tbilissi', 1, 368),
+    ('Mbabane', 0, 368),
+    ('Oslo', 0, 368),
+    ('Suva', 0, 368),
+
+    ('Panama', 1, 369),
+    ('Astana', 0, 369),
+    ('Oslo', 0, 369),
+    ('Tripoli', 0, 369),
+
+    ('Luxembourg', 1, 370),
+    ('Porto-Novo', 0, 370),
+    ('Oslo', 0, 370),
+    ('Reykjavik', 0, 370),
+
+    ('Quito', 1, 371),
+    ('Lilongwe', 0, 371),
+    ('Oslo', 0, 371),
+    ('Managua', 0, 371),
+
+    ('Koweït', 1, 372),
+    ('Accra', 0, 372),
+    ('Oslo', 0, 372),
+    ('Windhoek', 0, 372),
+
+    ('Zagreb', 1, 373),
+    ('Dodoma', 0, 373),
+    ('Oslo', 0, 373),
+    ('Ljubljana', 0, 373),
+
+    ('Dacca', 1, 374),
+    ('Maseru', 0, 374),
+    ('Oslo', 0, 374),
+    ('Kigali', 0, 374),
+
+    ('Lima', 1, 375),
+    ('Niamey', 0, 375),
+    ('Oslo', 0, 375),
+    ('Port-Vila', 0, 375),
+
+    ('Bangkok', 1, 376),
+    ('Accra', 0, 376),
+    ('Oslo', 0, 376),
+    ('Antananarivo', 0, 376),
+
+    ('Maputo', 1, 377),
+    ('Tachkent', 0, 377),
+    ('Oslo', 0, 377),
+    ('Paramaribo', 0, 377),
+
+    ('Mbabane', 1, 378),
+    ('Libreville', 0, 378),
+    ('Oslo', 0, 378),
+    ('Kigali', 0, 378),
+
+    ('Asmara', 1, 379),
+    ('Belmopan', 0, 379),
+    ('Oslo', 0, 379),
+    ('Hanoï', 0, 379),
+
+    ('Bissau', 1, 380),
+    ('Accra', 0, 380),
+    ('Oslo', 0, 380),
+    ('Vaduz', 0, 380),
+
+    ('Malabo', 1, 381),
+    ('Vaduz', 0, 381),
+    ('Oslo', 0, 381),
+    ('Georgetown', 0, 381),
+
+    ('Harare', 1, 382),
+    ('Accra', 0, 382),
+    ('Oslo', 0, 382),
+    ('Conakry', 0, 382),
+
+    ('Luanda', 1, 383),
+    ('Vaduz', 0, 383),
+    ('Oslo', 0, 383),
+    ('Conakry', 0, 383),
+
+    ('Lomé', 1, 384),
+    ('Accra', 0, 384),
+    ('Oslo', 0, 384),
+    ('Georgetown', 0, 384),
+
+    ('N'Djamena', 1, 385),
+    ('Vaduz', 0, 385),
+    ('Oslo', 0, 385),
+    ('Mbabane', 0, 385),
+
+    ('Lusaka', 1, 386),
+    ('Accra', 0, 386),
+    ('Oslo', 0, 386),
+    ('Tripoli', 0, 386),
+
+    ('Georgetown', 1, 387),
+    ('Vaduz', 0, 387),
+    ('Oslo', 0, 387),
+    ('Managua', 0, 387),
+
+    ('Séoul', 1, 388),
+    ('Accra', 0, 388),
+    ('Oslo', 0, 388),
+    ('Libreville', 0, 388),
+
+    ('Montevideo', 1, 389),
+    ('Vaduz', 0, 389),
+    ('Oslo', 0, 389),
+    ('Tripoli', 0, 389),
+
+    ('La Paz', 1, 390),
+    ('Accra', 0, 390),
+    ('Oslo', 0, 390),
+    ('Windhoek', 0, 390),
+
+    ('San Salvador', 1, 391),
+    ('Vaduz', 0, 391),
+    ('Oslo', 0, 391),
+    ('Mbabane', 0, 391),
+
+    ('Le Caire', 1, 392),
+    ('Accra', 0, 392),
+    ('Oslo', 0, 392),
+    ('Vaduz', 0, 392),
+
+    ('Saint-Domingue', 1, 393),
+    ('Vaduz', 0, 393),
+    ('Oslo', 0, 393),
+    ('Tripoli', 0, 393),
+
+    ('Katmandou', 1, 394),
+    ('Accra', 0, 394),
+    ('Oslo', 0, 394),
+    ('Windhoek', 0, 394),
+
+    ('Lilongwe', 1, 395),
+    ('Vaduz', 0, 395),
+    ('Oslo', 0, 395),
+    ('Belmopan', 0, 395),
+
+    ('Dublin', 1, 396),
+    ('Accra', 0, 396),
+    ('Oslo', 0, 396),
+    ('Vaduz', 0, 396),
+
+    ('Conakry', 1, 397),
+    ('Vaduz', 0, 397),
+    ('Oslo', 0, 397),
+    ('Bamako', 0, 397),
+
+    ('Tirana', 1, 398),
+    ('Accra', 0, 398),
+    ('Oslo', 0, 398),
+    ('Vaduz', 0, 398),
+
+    ('Maseru', 1, 399),
+    ('Vaduz', 0, 399),
+    ('Oslo', 0, 399),
+    ('Bujumbura', 0, 399),
+
+    ('Helsinki', 1, 400),
+    ('Accra', 0, 400),
+    ('Oslo', 0, 400),
+    ('Georgetown', 0, 400);
+
+
+INSERT INTO Answer (AnswerText, isCorrectAnswer, questID) VALUES
+    ('Tom Hanks', 1, 401),
+    ('Brad Pitt', 0, 401),
+    ('Leonardo DiCaprio', 0, 401),
+    ('Johnny Depp', 0, 401),
+
+    ('Christopher Nolan', 1, 402),
+    ('Steven Spielberg', 0, 402),
+    ('James Cameron', 0, 402),
+    ('Quentin Tarantino', 0, 402),
+
+    ('Apocalypse Now', 1, 403),
+    ('Platoon', 0, 403),
+    ('Full Metal Jacket', 0, 403),
+    ('Deer Hunter', 0, 403),
+
+    ('Emma Stone', 1, 404),
+    ('Natalie Portman', 0, 404),
+    ('Cate Blanchett', 0, 404),
+    ('Jennifer Lawrence', 0, 404),
+
+    ('Jim Carrey', 1, 405),
+    ('Tom Cruise', 0, 405),
+    ('Will Smith', 0, 405),
+    ('Johnny Depp', 0, 405),
+
+    ('Psychose', 1, 406),
+    ('Les Oiseaux', 0, 406),
+    ('Fenêtre sur cour', 0, 406),
+    ('Sueurs froides', 0, 406),
+
+    ('Roger Allers et Rob Minkoff', 1, 407),
+    ('Hayao Miyazaki', 0, 407),
+    ('Andrew Stanton', 0, 407),
+    ('Pete Docter', 0, 407),
+
+    ('Forrest Gump', 1, 408),
+    ('Pulp Fiction', 0, 408),
+    ('The Shawshank Redemption', 0, 408),
+    ('The Lion King', 0, 408),
+
+    ('Robert Downey Jr.', 1, 409),
+    ('Chris Evans', 0, 409),
+    ('Chris Hemsworth', 0, 409),
+    ('Mark Ruffalo', 0, 409),
+
+    ('Christopher Nolan', 1, 410),
+    ('Tim Burton', 0, 410),
+    ('Zack Snyder', 0, 410),
+    ('Joss Whedon', 0, 410),
+
+    ('Les Ailes', 1, 411),
+    ('Metropolis', 0, 411),
+    ('Sunset Boulevard', 0, 411),
+    ('La Ruée vers l\'or', 0, 411),
+
+    ('Anthony Hopkins', 1, 412),
+    ('Morgan Freeman', 0, 412),
+    ('Jack Nicholson', 0, 412),
+    ('Kevin Spacey', 0, 412),
+
+    ('Lincoln', 1, 413),
+    ('There Will Be Blood', 0, 413),
+    ('Gangs of New York', 0, 413),
+    ('My Left Foot', 0, 413),
+
+    ('Les Wachowski', 1, 414),
+    ('Ridley Scott', 0, 414),
+    ('James Cameron', 0, 414),
+    ('Steven Spielberg', 0, 414),
+
+    ('Alejandro G. Iñárritu', 1, 415),
+    ('Martin Scorsese', 0, 415),
+    ('Quentin Tarantino', 0, 415),
+    ('David Fincher', 0, 415),
+
+    ('Pirates des Caraïbes: La Malédiction du Black Pearl', 1, 416),
+    ('Edward aux mains d\'argent', 0, 416),
+    ('Sweeney Todd', 0, 416),
+    ('Alice au pays des merveilles', 0, 416),
+
+    ('Orson Welles', 1, 417),
+    ('Alfred Hitchcock', 0, 417),
+    ('Stanley Kubrick', 0, 417),
+    ('Frank Capra', 0, 417),
+
+    ('Parasite', 1, 418),
+    ('1917', 0, 418),
+    ('Joker', 0, 418),
+    ('Once Upon a Time in Hollywood', 0, 418),
+
+    ('Marlon Brando', 1, 419),
+    ('Al Pacino', 0, 419),
+    ('Robert De Niro', 0, 419),
+    ('James Caan', 0, 419),
+
+    ('Peter Jackson', 1, 420),
+    ('George Lucas', 0, 420),
+    ('J.K. Rowling', 0, 420),
+    ('Christopher Nolan', 0, 420),
+
+    ('Shrek', 1, 421),
+    ('Monstres et Cie', 0, 421),
+    ('Le Voyage de Chihiro', 0, 421),
+    ('L\'Âge de glace', 0, 421),
+
+    ('Jodie Foster', 1, 422),
+    ('Julianne Moore', 0, 422),
+    ('Michelle Pfeiffer', 0, 422),
+    ('Sigourney Weaver', 0, 422),
+
+    ('Heath Ledger', 1, 423),
+    ('Philip Seymour Hoffman', 0, 423),
+    ('Robin Williams', 0, 423),
+    ('Paul Walker', 0, 423),
+
+    ('Alfred Hitchcock', 1, 424),
+    ('Wes Craven', 0, 424),
+    ('John Carpenter', 0, 424),
+    ('Roman Polanski', 0, 424),
+
+    ('The Revenant', 1, 425),
+    ('The Wolf of Wall Street', 0, 425),
+    ('Inception', 0, 425),
+    ('Titanic', 0, 425),
+
+    ('Liam Neeson', 1, 426),
+    ('Tom Hanks', 0, 426),
+    ('Ralph Fiennes', 0, 426),
+    ('Ben Kingsley', 0, 426),
+
+    ('John Lasseter', 1, 427),
+    ('Hayao Miyazaki', 0, 427),
+    ('Chris Sanders', 0, 427),
+    ('Brad Bird', 0, 427),
+
+    ('Casablanca', 1, 428),
+    ('The Maltese Falcon', 0, 428),
+    ('To Have and Have Not', 0, 428),
+    ('The Big Sleep', 0, 428),
+
+    ('The Godfather', 1, 429),
+    ('A Clockwork Orange', 0, 429),
+    ('The French Connection', 0, 429),
+    ('Cabaret', 0, 429),
+
+    ('Ridley Scott', 1, 430),
+    ('James Cameron', 0, 430),
+    ('Steven Spielberg', 0, 430),
+    ('George Lucas', 0, 430),
+
+    ('Tim Robbins', 1, 431),
+    ('Morgan Freeman', 0, 431),
+    ('Jack Nicholson', 0, 431),
+    ('Tom Hanks', 0, 431),
+
+    ('Sandra Bullock', 1, 432),
+    ('Meryl Streep', 0, 432),
+    ('Cate Blanchett', 0, 432),
+    ('Natalie Portman', 0, 432),
+
+    ('Steven Spielberg', 1, 433),
+    ('George Lucas', 0, 433),
+    ('James Cameron', 0, 433),
+    ('Tim Burton', 0, 433),
+
+    ('Daniel Craig', 1, 434),
+    ('Pierce Brosnan', 0, 434),
+    ('Sean Connery', 0, 434),
+    ('Roger Moore', 0, 434),
+
+    ('Steven Spielberg', 1, 435),
+    ('Martin Scorsese', 0, 435),
+    ('Quentin Tarantino', 0, 435),
+    ('Christopher Nolan', 0, 435),
+
+    ('Gladiator', 1, 436),
+    ('Traffic', 0, 436),
+    ('Erin Brockovich', 0, 436),
+    ('Crouching Tiger, Hidden Dragon', 0, 436),
+
+    ('Ray Liotta', 1, 437),
+    ('Robert De Niro', 0, 437),
+    ('Joe Pesci', 0, 437),
+    ('Al Pacino', 0, 437),
+
+    ('Quentin Tarantino', 1, 438),
+    ('Christopher Nolan', 0, 438),
+    ('Martin Scorsese', 0, 438),
+    ('David Fincher', 0, 438),
+
+    ('Natalie Portman', 1, 439),
+    ('Cate Blanchett', 0, 439),
+    ('Meryl Streep', 0, 439),
+    ('Anne Hathaway', 0, 439),
+
+    ('Jack Nicholson', 1, 440),
+    ('Robert De Niro', 0, 440),
+    ('Anthony Hopkins', 0, 440),
+    ('Al Pacino', 0, 440),
+
+    ('Andrew Stanton', 1, 441),
+    ('Pete Docter', 0, 441),
+    ('John Lasseter', 0, 441),
+    ('Brad Bird', 0, 441),
+
+    ('In the Heat of the Night', 1, 442),
+    ('The Graduate', 0, 442),
+    ('Bonnie and Clyde', 0, 442),
+    ('Doctor Dolittle', 0, 442),
+
+    ('Jeff Bridges', 1, 443),
+    ('John Goodman', 0, 443),
+    ('Steve Buscemi', 0, 443),
+    ('Julianne Moore', 0, 443),
+
+    ('Anthony Hopkins', 1, 444),
+    ('Mads Mikkelsen', 0, 444),
+    ('Brian Cox', 0, 444),
+    ('Gaspard Ulliel', 0, 444),
+
+    ('James Cameron', 1, 445),
+    ('Christopher Nolan', 0, 445),
+    ('Ridley Scott', 0, 445),
+    ('Peter Jackson', 0, 445),
+
+    ('Chariots of Fire', 1, 446),
+    ('Raiders of the Lost Ark', 0, 446),
+    ('E.T. the Extra-Terrestrial', 0, 446),
+    ('Blade Runner', 0, 446),
+
+    ('Ralph Fiennes', 1, 447),
+    ('Bill Murray', 0, 447),
+    ('Owen Wilson', 0, 447),
+    ('Jason Schwartzman', 0, 447),
+
+    ('Damien Chazelle', 1, 448),
+    ('Christopher Nolan', 0, 448),
+    ('Quentin Tarantino', 0, 448),
+    ('Martin Scorsese', 0, 448),
+
+    ('Matthew McConaughey', 1, 449),
+    ('Leonardo DiCaprio', 0, 449),
+    ('Christian Bale', 0, 449),
+    ('Bradley Cooper', 0, 449),
+
+    ('Jesse Eisenberg', 1, 450),
+    ('Andrew Garfield', 0, 450),
+    ('Armie Hammer', 0, 450),
+    ('Justin Timberlake', 0, 450);
